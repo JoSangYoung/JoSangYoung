@@ -1,5 +1,5 @@
 ## Welcome to my Github! 👋
-Hi! I am SangYeong Jo who is interested in artificial intelligence. I am a data scientist and machine learning engineer.
+Hi! I am SangYeong Jo who is interested in artificial intelligence. I am a data scientist and machine learning engineer who is looking for a job.
 
 If you want to contact me, please leave me a message!
 
