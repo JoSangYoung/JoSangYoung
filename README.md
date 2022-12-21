@@ -1,11 +1,9 @@
 ## Welcome to my Github! 👋
----
 Hi! I am SangYeong Jo who is interested in artificial intelligence. I am a data scientist and machine learning engineer.
 
 If you want to contact me, please leave me a message!
 
 ## 👏 Contact
----
 Mail: jsy7057@gmail.com, jsy7058@unist.ac.kr
 
 LinkedIn: https://www.linkedin.com/in/sangyeongjo/
@@ -13,7 +11,6 @@ LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 <br/>
 
 ## 📚 Education
----
 - Master of Science in Artificial Intelligence
   - Ulsan National Institute of Science & Technology (UNIST)
   - GPA: 3.73 / 4.3
@@ -39,7 +36,6 @@ LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 <br/>
 
 ## 🛒 Skills
----
 ### Artificial Intelligence
 -  A.I. FrameWorks
    -  Tensorflow, Pytorch, Python, Numpy, CUDA
@@ -69,7 +65,6 @@ LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 <br/>
 
 ## 🤝 Projects
----
 1. Domain Generalization (Mar/2021 - Present)
    -  A unique algorithm that extracts domain-invariant representation
    -  *Skills*: Pytorch, Numpy, Python, Research, Computer Vision, Generalization, Linux,
@@ -112,7 +107,6 @@ Github, Docker
 <br/>
 
 ## 🏆 Awards and Honors
----
 1. Citation Prize from Member of the National Assembly (2020)
    - Citation Prize
 
@@ -129,7 +123,6 @@ Github, Docker
 <br/>
 
 ## 📃 Publications
----
 ### **International Journal**
 
 1. MDPI Sensors (Basel)
@@ -169,7 +162,6 @@ Github, Docker
 <br/>
 
 ## 🎤 Presentations
----
 1. UNIST: Core AI Labs Seminar
    - SWAD: Domain Generalzation By Seeking Flat Minima
      - [Paper Link](https://arxiv.org/abs/2102.08604)
