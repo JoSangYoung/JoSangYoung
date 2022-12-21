@@ -141,7 +141,7 @@ Github, Docker
 
 3. 2019 IEEE International Conference on Big Data and Smart Computing (BigComp)
    - SangYeong. Jo, SunHye. Jang, HeeEun. Cho and JinWoo. Jeong, "Scenery-Based Fashion Recommendation with Cross-Domain Geneartive Adverserial Networks," IEEE International Conference on Big Data and Smart Computing (BigComp).
-  - [Link](https://ieeexplore.ieee.org/document/8679117)
+   - [Link](https://ieeexplore.ieee.org/document/8679117)
   
 <br/>
 
