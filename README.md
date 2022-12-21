@@ -24,7 +24,6 @@ LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 <br/>
 
 ## 💻 Experiences
----
 - Korea Institute of Science and Technology (KIST)
   - Intern Researcher
   - 05/2020 - 09/2020
@@ -128,7 +127,8 @@ Github, Docker
 1. MDPI Sensors (Basel)
     - Jo SY, Jeong JW. Prediction of Visual Memorability with EEG Signals: A Comparative Study. Sensors (Basel).
     - [Link](https://pubmed.ncbi.nlm.nih.gov/32397356/)
-#
+<br/>
+
 ### **International Conference**
 1. The 37th AAAI conference on Artificial Intelligence
    - Sang-Yeong Jo and Sung Whan Yoon, "POEM: Polarization of Embeddings for Domain-Invariant Representations," In press.
@@ -141,12 +141,14 @@ Github, Docker
 3. 2019 IEEE International Conference on Big Data and Smart Computing (BigComp)
    - SangYeong. Jo, SunHye. Jang, HeeEun. Cho and JinWoo. Jeong, "Scenery-Based Fashion Recommendation with Cross-Domain Geneartive Adverserial Networks," IEEE International Conference on Big Data and Smart Computing (BigComp).
   - [Link](https://ieeexplore.ieee.org/document/8679117)
-#
+<br/>
+
 ### **Domestic Journal**
 1. Journal of Korea Institute of Information, Electronics, and Communication Technology
    - Sang-Young Jo and Jin-Woo Jeong. (2018, October), Design and Implementation of Hospital Room Management System Based on IoT CareBots, Journal of Korea Institute of Information, Electronics, and Communication Technology, 11(4), 370-378.
    - [Link](http://koreascience.or.kr/article/JAKO201827750145326.page)
-#
+<br/>
+
 ### **Domestic Conference**
 1. Proceedings of KIISE Conference 2019
    - SangYeong. Jo, JinHyeok Hyeon, TaeSan Kim, Junha Hwang, "A Maintenance System for Bicycle Road Using YOLO", Proceedings of the Korean Institute of Information Scientists and Engineers conference, 2019. 6.
