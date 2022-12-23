@@ -135,7 +135,6 @@ Github, Docker
 ### **International Conference**
 1. The 37th AAAI conference on Artificial Intelligence
    - Sang-Yeong Jo and Sung Whan Yoon, "POEM: Polarization of Embeddings for Domain-Invariant Representations," In press.
-   - [Link]()
   
 2. 2020 8th International Winter Conference on Brain-Computer Interface (BCI)
    - S. Jo and J. Jeong, "Prediction of Visual Memorability with EEG Signals using Deep Neural Networks," 2020 8th International Winter Conference on Brain-Computer Interface (BCI).
