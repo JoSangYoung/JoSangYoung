@@ -1,7 +1,7 @@
 ## Welcome to my Github! 👋
 Hi! I am SangYeong Jo who is interested in artificial intelligence, data engineering, data analysis, and research.
 
-I am an artificial intelligence scientist and engineer who is looking for a job.
+I am an artificial intelligence researcher and engineer.
 
 If you want to contact me, please leave me a message!
 
