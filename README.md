@@ -6,6 +6,7 @@ Robust computer vision & multimodal AI researcher/engineer.
 [📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
 
 ---
+</br>
 
 ## 🔎 At a Glance
 - **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — shipped in clinical & manufacturing settings
@@ -16,17 +17,20 @@ Robust computer vision & multimodal AI researcher/engineer.
 > 🇰🇷 **키워드**: 컴퓨터비전, 도메인 일반화, 2D/3D 포즈, 의료영상, 강건학습, 메타러닝, MLOps, 모델 배포, 추론 최적화, 데이터셋 거버넌스
 
 ---
+</br>
 
 ## 🤝 Work with Me
 I help teams **ship reliable vision/multimodal AI** from prototype → product.
 
-- **Medical/Industrial CV:** lesion detection, 3D segmentation, defect/anomaly detection  
-- **Robust Learning:** domain generalization/adaptation, SWAD/SAM curricula  
-- **Pose/Action:** 2D/3D pose pipelines, motion quality scoring, rhythm/tempo sync  
-- **MLOps:** training at scale (DDP/AMP), serving & packaging (TorchScript/`torch.compile`, Docker), **FastAPI**/**Celery** pipelines, evaluation & validation
+- **Vision:** detection / segmentation / classification, **2D/3D pose**, 3D segmentation; external-set robustness & deployment (PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
+- **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), **LLM-assisted** dataset curation & feedback generation
+- **Medical/Industrial CV:** lesion detection, 3D segmentation, defect/anomaly detection
+- **Robust Learning:** domain generalization/adaptation (**POEM**, SWAD/SAM), OOD evaluation & curricula design
+- **Pose/Action:** 2D/3D pose pipelines, motion quality scoring, rhythm/tempo sync
+- **MLOps:** training at scale (**DDP/AMP**), serving & packaging (**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** pipelines, monitoring (**W&B**), evaluation & validation
 
-**👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).  
-<!-- 선택: 미팅 링크가 있다면 여기에 추가하세요. 예: https://calendly.com/your-link -->
+**👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).
+
 
 ---
 <br/>
