@@ -1,6 +1,7 @@
 # SangYeong Jo — Vision · Multimodal · Core AI Algorithms · MLOps
 
-Robust computer vision & multimodal AI researcher/engineer.  
+Robust computer vision & multimodal AI researcher/engineer.
+모델 안정성, 컴퓨터 비전, 멀티모달 AI 연구자/엔지니어입니다.  
 **Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
 
 [📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
@@ -9,16 +10,36 @@ Robust computer vision & multimodal AI researcher/engineer.
 </br>
 
 
-## 🔎 At a Glance
-- **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — shipped in clinical & manufacturing settings
-- **Multimodal:** vision+audio dance-coaching (pose+beat sync), vision+text (CLIP pipelines, VL dataset curation)
+## 🔎 한눈에 보기 (At a Glance)
+<details>
+<summary>English</summary>
+
+- **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — deployed in clinical & manufacturing settings
+- **Multimodal:** vision+audio dance coaching (pose + beat sync), vision+text (CLIP pipelines, vision–language (VL) dataset curation)
+- **Medical/Industrial CV:** lesion detection, 3D image segmentation, anomaly/defect detection
 - **Core AI Algorithms:** **POEM** for domain generalization (AAAI’23 Oral), meta-learning, causal analysis (CCM), robust training (SWAD/SAM)
+- **Pose/Action:** 2D/3D pose estimation pipelines, motion-quality scoring, tempo synchronization
 - **MLOps & Training:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — engine integration, validation, dataset governance
 
+</details>
+
+<details>
+<summary>한국어</summary>
+
+- **Vision:** 탐지 / 분할 / 분류, **2D/3D 포즈**, **3D 비전** — 임상/제조 환경에 실제 배포 경험
+- **Multimodal:** 비전+오디오(포즈·비트 싱크), 비전+텍스트(CLIP 파이프라인, 비전-언어(VL) 데이터셋 큐레이션)
+- **Medical/Industrial CV:** 병변 검출, 3D 이미지 분할, 결함/이상 탐지
+- **핵심 알고리즘:** 도메인 일반화 **POEM**(AAAI’23 Oral), 메타러닝, 인과 분석(CCM), 강건 학습(SWAD/SAM)
+- **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 템포 동기화
+- **MLOps & 학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — 엔진 통합, 검증, 데이터셋 거버넌스
+
+</details>
 ---
 </br>
 
 ## 🤝 Work with Me
+<details>
+<summary>English</summary>
 I help teams **ship reliable vision/multimodal AI** from prototype → product.
 
 - **Vision:** detection / segmentation / classification, **2D/3D pose**, 3D segmentation; external-set robustness & deployment (PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
@@ -29,39 +50,10 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 - **MLOps:** training at scale (**DDP/AMP**), serving & packaging (**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** pipelines, monitoring (**W&B**), evaluation & validation
 
 **👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).
+</details>
 
-
----
-<br/>
-
-## 👏 Contact
-- **Email:** joinspired42@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/sangyeongjo/  
-- **Google Scholar:** https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en  
-- **GitHub:** https://github.com/JoSangYoung
-
-<br/>
-
-# SangYeong Jo — 비전(Vision) · 멀티모달(Multimodal) · 핵심 AI 알고리즘 · MLOps
-
-견고한 컴퓨터 비전 & 멀티모달 AI 연구자/엔지니어입니다.  
-**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **의료/산업용 컴퓨터 비전** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
-
-[📧 이메일](mailto:joinspired42@gmail.com) · [🔗 링크드인](https://www.linkedin.com/in/sangyeongjo/) · [🎓 구글 스칼라](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=ko) · [👨‍💻 깃허브](https://github.com/JoSangYoung)
-
----
-</br>
-
-## 🔎 한눈에 보기 (At a Glance)
-- **Vision:** 분류/탐지/분할, **2D/3D 포즈**, **3D 비전** — 임상·제조 환경에 실제 배포 경험
-- **Multimodal:** 비전+오디오 댄스 코칭(포즈+비트 싱크), 비전+텍스트(CLIP 파이프라인, VL 데이터셋 큐레이션)
-- **핵심 AI 알고리즘:** 도메인 일반화 **POEM**(AAAI’23 Oral), 메타러닝, 인과분석(CCM), 강건 학습(SWAD/SAM)
-- **MLOps & 학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — 엔진 통합, 검증, 데이터셋 거버넌스
-
----
-</br>
-
-## 🤝 Work with Me
+<details>
+<summary>한국어</summary>
 팀이 **신뢰할 수 있는 비전/멀티모달 AI**를 프로토타입 → 제품으로 **실제 배포**하도록 돕습니다.
 
 - **Vision:** 탐지 / 분할 / 분류, **2D/3D 포즈**, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(Python/PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
@@ -73,18 +65,21 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 
 **👉 협업/의뢰:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)으로 연락해주세요.
 
+</details>
+
+
 ---
 <br/>
 
-## 👏 연락처 (Contact)
+## 👏 Contact
 - **Email:** joinspired42@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/sangyeongjo/  
-- **Google Scholar:** https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=ko  
+- **Google Scholar:** https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en  
 - **GitHub:** https://github.com/JoSangYoung
 
+---
 <br/>
 
-<detail>
 
 ## 📚 Education
 - **Master of Science in Artificial Intelligence**  
