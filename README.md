@@ -96,6 +96,7 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
   3D Vision (Point Clouds, NeRF)  
   Generative Models (GAN, Diffusion)  
   Transformer
+  Multimodal (CLIP, LLaVA, Deep Seek VL)
 
 ### Programming Skills
 - **Programming Languages**  
