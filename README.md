@@ -160,7 +160,9 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 🛒 Skills
-### Artificial Intelligence
+<details>
+  <summary>English</summary>
+  ### Artificial Intelligence
 - **AI Frameworks**  
   TensorFlow, PyTorch, Python, NumPy, CUDA
 - **Data & Big Data**  
@@ -186,6 +188,38 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
   Windows, Linux
 - **Communication & Tools**  
   GitHub, Docker
+</details>
+
+<details>
+  <summary>한국어</summary>
+  ### 인공지능 (Artificial Intelligence)
+- **AI 프레임워크**  
+  TensorFlow, PyTorch, Python, NumPy, CUDA
+- **데이터 & 빅데이터**  
+  Apache Spark, Apache Hadoop, MongoDB, MySQL, Pandas
+- **주요 토픽(Topics)**  
+  컴퓨터 비전(분류, 객체 검출, 시맨틱 세그멘테이션)  
+  도메인 일반화 / 도메인 적응  
+  최적화  
+  메타러닝(Few-shot learning, MAML, ProtoNet)  
+  3D 비전(Point Clouds, NeRF)  
+  생성 모델(GAN, Diffusion)  
+  트랜스포머(Transformer)  
+  멀티모달(CLIP, LLaVA, DeepSeek-VL)
+
+### 프로그래밍 스킬 (Programming Skills)
+- **프로그래밍 언어**  
+  Python, C, C++, C#, Java, JavaScript, PHP, MATLAB
+- **웹**  
+  HTML, XML, Django, Vue.js, Flask, REST API, Bootstrap
+- **모바일 애플리케이션**  
+  Android Studio, Flutter
+- **운영체제**  
+  Windows, Linux
+- **커뮤니케이션 & 도구**  
+  GitHub, Docker
+</details>
+
 
 <br/>
 
@@ -421,7 +455,9 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 
 ## 🎤 Presentations
-1. **UNIST: Core AI Labs Seminar**  
+<details>
+  <summary>English</summary>
+  1. **UNIST: Core AI Labs Seminar**  
    – *SWAD: Domain Generalization by Seeking Flat Minima*  
      **Paper:** https://arxiv.org/abs/2102.08604  
      **YouTube:** https://www.youtube.com/watch?v=uowNWqqzVs0  
@@ -444,5 +480,28 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
    – Mentor  
    **News:** https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/  
    **YouTube:** https://www.youtube.com/watch?v=HvdRm8p1xF4
+</details>
+<details>
+  <summary>한국어</summary>
+  1. **UNIST: Core AI Labs Seminar**  
+   – *SWAD: Domain Generalization by Seeking Flat Minima*  
+     **Paper:** https://arxiv.org/abs/2102.08604  
+     **YouTube:** https://www.youtube.com/watch?v=uowNWqqzVs0  
+     **Page:** https://sites.google.com/view/core-ai-labs/Seminars/2022-7/220708-1  
+   – *Pro-tuning: Unified Prompt Tuning for Vision Tasks*  
+     **Paper:** https://arxiv.org/abs/2207.14381  
+     **YouTube:** https://www.youtube.com/watch?v=pNoYt0bzG-s  
+     **Page:** https://sites.google.com/view/core-ai-labs/Seminars/october-2022/2
 
+2. **제2회 UNIST Novatus Academia**  
+   – 조교(CNN)  
+   **Site:** https://aipark.unist.ac.kr/novatus/
+
+3. **LG Electronics DX Intensive Course (2021-09-15)**  
+   – 조교(CNN)
+
+4. **A.I. 4.0 Studio Mentoring Program**  
+   – 1·2기 멘토 (2021.05 – 2021.11; 2022.05 – 2022.11)  
+   **News:** https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/  
+   **YouTube:** https://www.youtube.com/watch?v=HvdRm8p1xF4
 </details>
