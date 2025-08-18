@@ -2,6 +2,7 @@
 
 Robust computer vision & multimodal AI researcher/engineer.
 모델 안정성, 컴퓨터 비전, 멀티모달 AI 연구자/엔지니어입니다.  
+</br>
 **Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
 
 [📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
