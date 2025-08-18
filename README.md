@@ -38,7 +38,7 @@ Robust computer vision & multimodal AI researcher/engineer.
 
 </br>
 
-## 🤝 Work with Me
+## 🤝 함께 일하기 (Work with Me)
 <details>
 <summary>English</summary>
 I help teams ship reliable vision/multimodal AI from prototype → product.
@@ -103,6 +103,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 💻 Experiences
+<details> English
 - **Neurophet (Algorithm Research Team)**  
   *AI Researcher*  
   **02/2023 – Present**  
@@ -114,7 +115,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 - **Machine Intelligence & Information Learning Lab., UNIST**  
   *Graduate Student*  
   **03/2021 – 02/2023**  
-  – Research on domain generalization (POEM), causal analysis projects
+  – Research on domain generalization (POEM), causal analysis projects, Meta-Learning
 
 - **Korea Institute of Science and Technology (KIST)**  
   *Intern Researcher*  
@@ -124,7 +125,35 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 - **Interactive Lab, Kumoh National Institute of Technology (KIT)**  
   *Student Intern*  
   **06/2017 – 02/2020**  
-  – IoT patient-room system; early CV prototypes
+  – IoT patient-room system; Back-end system development
+</details>
+
+<details>한국어
+- **뉴로핏 (Algorithm Research Team)**  
+  *AI 연구원*  
+  **2023.02 – 현재**  
+  – 병변 검출, 3D 세그멘테이션, 분류 모델 제품 적용  
+  – 강건 학습(POEM, SWAD, SAM) 적용, 엔진 통합 및 성능 검증 수행  
+  – 검증 절차 설계 및 학습/검증 데이터셋 거버넌스  
+  – 시리즈 B 단계부터 코스닥 상장 과정 기여
+
+- **UNIST Machine Intelligence & Information Learning Lab.**  
+  *석사 연구원 (Graduate Student)*  
+  **2021.03 – 2023.02**  
+  – 도메인 일반화(POEM) 연구, 인과 분석 프로젝트 수행, 메타러닝 연구
+
+- **한국과학기술연구원(KIST)**  
+  *인턴 연구원*  
+  **2020.05 – 2020.09**  
+  – 3D 폴리곤 시각화 도구 개발 및 분할 결과 기반 정량 분석
+
+- **금오공과대학교(KIT) Interactive Lab**  
+  *학생 인턴*  
+  **2017.06 – 2020.02**  
+  – IoT 병실 관리 시스템 백앤드 개발
+
+</details>
+
 
 <br/>
 
