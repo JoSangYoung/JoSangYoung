@@ -454,7 +454,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 </details>
 
-
+</br>
 ## 🎤 Presentations
 <details>
   <summary>English</summary>
