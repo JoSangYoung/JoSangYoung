@@ -103,7 +103,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 💻 Experiences
-<details> English
+<details>
+  <summary>English</summary>
 - **Neurophet (Algorithm Research Team)**  
   *AI Researcher*  
   **02/2023 – Present**  
@@ -128,7 +129,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
   – IoT patient-room system; Back-end system development
 </details>
 
-<details>한국어
+<details>
+  <summary>한국어</summary>
 - **뉴로핏 (Algorithm Research Team)**  
   *AI 연구원*  
   **2023.02 – 현재**  
@@ -188,7 +190,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 🤝 Projects
-<details>English
+<details>
+  <summary>English</summary>
 1. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
    – MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch  
    – *Skills:* PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
@@ -243,7 +246,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
     – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
     – **YouTube:** https://www.youtube.com/watch?v=FRA7vulQLTU
 </details>
-<details>한국어
+<details>
+  <summary>한국어</summary>
 ## 🤝 프로젝트 (Projects)
 1. **실시간 댄스 코칭 엔진** *(2024.10 – 2025.07)*  
    – MotionBERT 3D 포즈 + MMPose 2D 키포인트; 스켈레톤 정렬 & 비트 싱크; 실시간/비동기 지원  
@@ -302,7 +306,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 🏆 Awards and Honors
-<details>English
+<details>
+  <summary>English</summary>
 1. **Oral Session Presentation (2023)** — AAAI 2023
 2.  **Commendation (Graduate Representative)** — Member of the National Assembly (2020)
 3. **Undergraduate Academic Competition** — The Korean Institute of Information Technology (Second Prize)
@@ -310,7 +315,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 5. **Korea Software Congress 2017** — Second Prize
 </details>
 
-<details>한국어
+<details>
+  <summary>한국어</summary>
 1. **Oral sessino 발표 (2023)** — AAAI 2023
 2. **졸업생 대표 표창장 (2020)** — 국회의원 표창
 3. **정보기술학회 대학생 논문경진대회 (2018)** — 정보기술학회(은상)
@@ -321,7 +327,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 📃 Publications
-<details>English
+<details>
+  <summary>English</summary>
   ### **International Journal**
 1. **Sensors (Basel)**  
    Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
@@ -366,7 +373,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 </details>
 
-<details>한국어
+<details>
+  <summary>한국어</summary>
 ### **국제 저널 (International Journal)**
 1. **Sensors (Basel)**  
    Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
