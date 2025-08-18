@@ -71,7 +71,7 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 ---
 <br/>
 
-## 👏 Contact
+## 👏 연락처(Contact)
 - **Email:** joinspired42@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/sangyeongjo/  
 - **Google Scholar:** https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en  
