@@ -1,14 +1,34 @@
-## Welcome to my GitHub! 👋
-Hi! I’m **SangYeong Jo** — an artificial intelligence **researcher & engineer** interested in **AI, data engineering, data analysis, and research**. I design and ship **robust vision systems** that keep working when environments shift.
+# SangYeong Jo — Vision · Multimodal · Core AI Algorithms · MLOps
 
-If you want to contact me, please leave me a message!
+Robust computer vision & multimodal AI researcher/engineer.  
+**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
+
+[📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
+
+---
 
 ## 🔎 At a Glance
-- **Vision:** CV (classification / detection / segmentation), **2D/3D pose**, **3D vision**; shipped models in clinical products & manufacturing use-cases.
-- **Multimodal:** Built **vision+audio** dance-coaching engine (pose + beat sync) and **vision+text** pipelines (CLIP-based product ID, dataset curation for VL tasks).
-- **Core AI Algorithms:** AAAI-23 (Oral) **POEM** for domain generalization; experience with **meta-learning**, **causal analysis (CCM)**, **optimization**, and **robust training** (SWAD/SAM).
-- **MLOps & Training:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **REST APIs**, **Celery**, **W&B**; engine integration & validation in product environments; dataset governance.
+- **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — shipped in clinical & manufacturing settings
+- **Multimodal:** vision+audio dance-coaching (pose+beat sync), vision+text (CLIP pipelines, VL dataset curation)
+- **Core AI Algorithms:** **POEM** for domain generalization (AAAI’23 Oral), meta-learning, causal analysis (CCM), robust training (SWAD/SAM)
+- **MLOps & Training:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — engine integration, validation, dataset governance
 
+> 🇰🇷 **키워드**: 컴퓨터비전, 도메인 일반화, 2D/3D 포즈, 의료영상, 강건학습, 메타러닝, MLOps, 모델 배포, 추론 최적화, 데이터셋 거버넌스
+
+---
+
+## 🤝 Work with Me
+I help teams **ship reliable vision/multimodal AI** from prototype → product.
+
+- **Medical/Industrial CV:** lesion detection, 3D segmentation, defect/anomaly detection  
+- **Robust Learning:** domain generalization/adaptation, SWAD/SAM curricula  
+- **Pose/Action:** 2D/3D pose pipelines, motion quality scoring, rhythm/tempo sync  
+- **MLOps:** training at scale (DDP/AMP), serving & packaging (TorchScript/`torch.compile`, Docker), **FastAPI**/**Celery** pipelines, evaluation & validation
+
+**👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).  
+<!-- 선택: 미팅 링크가 있다면 여기에 추가하세요. 예: https://calendly.com/your-link -->
+
+---
 <br/>
 
 ## 👏 Contact
