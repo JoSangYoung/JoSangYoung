@@ -3,7 +3,7 @@
 Robust computer vision & multimodal AI researcher/engineer.
 모델 안정성, 컴퓨터 비전, 멀티모달 AI 연구자/엔지니어입니다.  
 </br>
-**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
+**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/torch.compile, Docker, FastAPI, Celery, W&B)**
 
 [📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
 
@@ -73,7 +73,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 
-
+<details>Biography
 ## 📚 Education
 - **Master of Science in Artificial Intelligence**  
   Ulsan National Institute of Science & Technology (UNIST)  
@@ -144,60 +144,141 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <br/>
 
 ## 🤝 Projects
-1. **Domain Generalization / POEM** *(Mar/2021 – Present)*  
-   – A unique algorithm that learns **domain-invariant representations**  
+<details>English
+1. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
+   – MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch  
+   – *Skills:* PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
+
+2. **Skin Analysis & Product Recommendation** *(May/2023 – Dec/2023)*  
+   – Mobile skin-image analysis and personalized cosmetics recommendation (Flutter–Django)  
+   – *Skills:* Flutter, Django, MySQL, REST API
+
+3. **Domain Generalization / POEM** *(Apr/2021 – Feb/2023)*  
+   – Learns **domain-invariant representations** for robust generalization  
    – *Skills:* PyTorch, NumPy, Python, Research, Computer Vision, Generalization, Linux, GitHub, Docker  
    – **Code:** https://github.com/JoSangYoung/Official-POEM  
    – **Paper:** https://arxiv.org/abs/2305.13046
 
-2. **Causal Effect Analysis** *(Mar/2021 – Present)*  
-   – Causal effect inference between pairs of signals (CCM)  
-   – *Skills:* Python, PyTorch, Convergent Cross Mapping, Data Analysis, Signal Processing
+4. **Causal Effect Analysis** *(Mar/2022 – Feb/2023)*  
+   – Causal effect inference between signal pairs using **Convergent Cross Mapping (CCM)**  
+   – *Skills:* Python, PyTorch, CCM, Data Analysis, Signal Processing
 
-3. **Manufacturing Error Simulator** *(Oct/2021 – Dec/2021)*  
+5. **Meta-learning on 3D Point Clouds** *(Oct/2022 – Dec/2022)*  
+   – PointNet with task-conditioned adaptation under few-shot settings  
+   – *Skills:* TensorFlow, CUDA, 3D Point Cloud Classification
+
+6. **Clustering-based Feature Meta-learning** *(Jun/2022 – Dec/2022)*  
+   – ProtoNet + feature clustering for outlier removal in embedding space  
+   – *Skills:* PyTorch, scikit-learn, learn2learn, CUDA
+
+7. **Manufacturing Error Simulator** *(Oct/2021 – Dec/2021)*  
    – MLP-based simulator and data workflow for process analysis  
    – *Skills:* Python, Pandas, NumPy, Communication, Linux, Data Analysis
 
-4. **3D Web Viewer for Synaptic Connections** *(May/2020 – Sep/2020)*  
+8. **3D Web Viewer for Synaptic Connections** *(May/2020 – Sep/2020)*  
    – 3D visualization web application  
    – *Skills:* Python, Open-source, REST API, 3D Vision, GitHub
 
-5. **Predicting Visual Memorability from EEG** *(Nov/2018 – Feb/2020)*  
-   – Brain-wave pattern classification  
+9. **Predicting Visual Memorability from EEG** *(Nov/2018 – Feb/2020)*  
+   – Brain-wave pattern classification for visual memorability  
    – *Skills:* Python, PyTorch, Braindecode, Machine Learning, Deep Learning, MATLAB
 
-6. **Bicycle Road Maintenance System** *(Apr/2019 – Jun/2019)*  
-   – Real-time web/mobile system with YOLO-based detection  
-   – *Skills:* Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch  
-   – **GitHub:** https://github.com/JoSangYoung/Road_Detecting_Map
+10. **Bicycle Road Maintenance System** *(Apr/2019 – Jun/2019)*  
+    – Real-time web/mobile system with YOLO-based detection  
+    – *Skills:* Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch  
+    – **GitHub:** https://github.com/JoSangYoung/Road_Detecting_Map
 
-7. **Generating & Recommending Fashion Items**  
-   – Generation & recommendation using DiscoGAN  
-   – *Skills:* DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing  
-   – **GitHub:** https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
+11. **Generating & Recommending Fashion Items** *(Apr/2018 – Dec/2018)*  
+    – Generation & recommendation using **DiscoGAN**  
+    – *Skills:* DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing  
+    – **GitHub:** https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
 
-8. **Patient Care System using IoT Sensors**  
-   – Monitoring via camera, IoT, and wearables  
-   – *Skills:* IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing  
-   – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
-   – **YouTube:** https://www.youtube.com/watch?v=FRA7vulQLTU
+12. **Patient Care System using IoT Sensors** *(Jun/2017 – Nov/2017)*  
+    – Monitoring via camera, IoT, and wearables  
+    – *Skills:* IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing  
+    – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
+    – **YouTube:** https://www.youtube.com/watch?v=FRA7vulQLTU
+</details>
+<details>한국어
+## 🤝 프로젝트 (Projects)
+1. **실시간 댄스 코칭 엔진** *(2024.10 – 2025.07)*  
+   – MotionBERT 3D 포즈 + MMPose 2D 키포인트; 스켈레톤 정렬 & 비트 싱크; 실시간/비동기 지원  
+   – *기술:* PyTorch, FastAPI/Flask, Celery, Docker; 지표: 자세 유사도, 리듬 매칭, 칼로리 추정
 
-9. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
-   – MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch  
-   – *Skills:* PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
+2. **피부 상태 분석 및 제품 추천** *(2023.05 – 2023.12)*  
+   – 모바일 피부 이미지 분석 및 맞춤 화장품 추천(Flutter–Django)  
+   – *기술:* Flutter, Django, MySQL, REST API
 
+3. **Domain Generalization / POEM** *(2021.04 – 2023.02)*  
+   – **도메인 불변 임베딩** 학습으로 일반화 성능 향상  
+   – *기술:* PyTorch, NumPy, Python, Research, Computer Vision, Generalization, Linux, GitHub, Docker  
+   – **Code:** https://github.com/JoSangYoung/Official-POEM  
+   – **Paper:** https://arxiv.org/abs/2305.13046
+
+4. **Causal Effect Analysis** *(2022.03 – 2023.02)*  
+   – **CCM** 기반 신호 쌍 인과 효과 추론  
+   – *기술:* Python, PyTorch, Convergent Cross Mapping, Data Analysis, Signal Processing
+
+5. **3D 포인트 클라우드 메타러닝** *(2022.10 – 2022.12)*  
+   – Few-shot 조건의 PointNet + task-conditioned adaptation 실험  
+   – *기술:* TensorFlow, CUDA, 3D Point Cloud Classification
+
+6. **클러스터링 기반 Feature 메타러닝** *(2022.06 – 2022.12)*  
+   – 임베딩 공간에서 **ProtoNet + 군집화**로 outlier 제거 전략  
+   – *기술:* PyTorch, scikit-learn, learn2learn, CUDA
+
+7. **초음파 융착 공정 이상탐지/시뮬레이터** *(2021.10 – 2021.12)*  
+   – MLP 기반 공정 시뮬레이터 및 데이터 분석 워크플로  
+   – *기술:* Python, Pandas, NumPy, Communication, Linux, Data Analysis
+
+8. **시냅스 연결 3D 웹 뷰어** *(2020.05 – 2020.09)*  
+   – 3D 시각화 웹 애플리케이션  
+   – *기술:* Python, 오픈소스, REST API, 3D Vision, GitHub
+
+9. **EEG 기반 시각 기억도 예측** *(2018.11 – 2020.02)*  
+   – 뇌파 패턴 분류로 시각 기억도 예측  
+   – *기술:* Python, PyTorch, Braindecode, Machine Learning, Deep Learning, MATLAB
+
+10. **자전거 도로 유지보수 시스템** *(2019.04 – 2019.06)*  
+    – **YOLO** 기반 실시간 웹/모바일 감지  
+    – *기술:* Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch  
+    – **GitHub:** https://github.com/JoSangYoung/Road_Detecting_Map
+
+11. **패션 아이템 생성·추천 (DiscoGAN)** *(2018.04 – 2018.12)*  
+    – **DiscoGAN** 기반 이미지 생성 및 추천  
+    – *기술:* DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing  
+    – **GitHub:** https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
+
+12. **IoT 기반 환자 케어 시스템** *(2017.06 – 2017.11)*  
+    – 카메라·IoT·웨어러블 연동 환자 모니터링  
+    – *기술:* IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing  
+    – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
+    – **YouTube:** https://www.youtube.com/watch?v=FRA7vulQLTU
+</details>
 <br/>
 
 ## 🏆 Awards and Honors
-1. **Commendation (Graduate Representative)** — Member of the National Assembly (2020)
-2. **Undergraduate Academic Competition** — The Korean Institute of Information Technology (Second Prize)
-3. **IoT Innovation Challenge** (2017) — Special Prize
-4. **Korea Software Congress 2017** — Second Prize
+<details>English
+1. **Oral Session Presentation (2023)** — AAAI 2023
+2.  **Commendation (Graduate Representative)** — Member of the National Assembly (2020)
+3. **Undergraduate Academic Competition** — The Korean Institute of Information Technology (Second Prize)
+4. **IoT Innovation Challenge** (2017) — Special Prize
+5. **Korea Software Congress 2017** — Second Prize
+</details>
+
+<details>한국어
+1. **Oral sessino 발표 (2023)** — AAAI 2023
+2. **졸업생 대표 표창장 (2020)** — 국회의원 표창
+3. **정보기술학회 대학생 논문경진대회 (2018)** — 정보기술학회(은상)
+4. **IoT 이노베이션 챌린지** (2017) — 한국전자정보통신산업진흥회(입선)
+5. **한국소프트웨어종합학술대회** — 한국정보과학회(우수상)
+</details>
 
 <br/>
 
 ## 📃 Publications
-### **International Journal**
+<details>English
+  ### **International Journal**
 1. **Sensors (Basel)**  
    Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
    **Link:** https://pubmed.ncbi.nlm.nih.gov/32397356/
@@ -223,7 +304,6 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 1. *Journal of Korea Institute of Information, Electronics, and Communication Technology*  
    Sang-Young Jo and Jin-Woo Jeong (2018, Oct). *Design and Implementation of Hospital Room Management System Based on IoT CareBots*, 11(4), 370–378.  
    **Link:** http://koreascience.or.kr/article/JAKO201827750145326.page
-
 <br/>
 
 ### **Domestic Conference**
@@ -240,6 +320,12 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
    **Link:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694
 
 <br/>
+</details>
+
+<details>한국어
+
+</details>
+
 
 ## 🎤 Presentations
 1. **UNIST: Core AI Labs Seminar**  
@@ -266,4 +352,4 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
    **News:** https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/  
    **YouTube:** https://www.youtube.com/watch?v=HvdRm8p1xF4
 
-</detail>
+</details>
