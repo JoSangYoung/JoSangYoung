@@ -26,6 +26,14 @@ LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 <br/>
 
 ## 💻 Experiences
+- Neurophet (AI Team)
+  - AI Researcher
+  - 02/2023 - Present
+ 
+- Machine Intelligence and Information Learning Lab. of Ulsan National Institute of Science and Technology (UNIST)
+  - Graduate Student
+  - 03/2021 - 02/2023
+
 - Korea Institute of Science and Technology (KIST)
   - Intern Researcher
   - 05/2020 - 09/2020
