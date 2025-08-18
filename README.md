@@ -72,9 +72,9 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ---
 <br/>
 
-
-<details>Biography
-## 📚 Education
+## 📚 교육 (Education)
+<details>
+<summary>English</summary>
 - **Master of Science in Artificial Intelligence**  
   Ulsan National Institute of Science & Technology (UNIST)  
   GPA: **3.73 / 4.3**  
@@ -84,6 +84,21 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
   Kumoh National Institute of Technology (KIT)  
   GPA: **4.26 / 4.5**  
   **03/2014 – 02/2020**
+</details>
+
+<details>
+  <summary>한국어</summary>
+  - **인공지능 석사 (Master of Science in Artificial Intelligence)**  
+  울산과학기술원(UNIST)  
+  평균학점: **3.73 / 4.3**  
+  **2021.03 – 2023.02**
+
+- **컴퓨터공학 학사 (Bachelor of Engineering in Computer Engineering)**  
+  금오공과대학교(KIT)  
+  평균학점: **4.26 / 4.5**  
+  **2014.03 – 2020.02**
+
+</details>
 
 <br/>
 
@@ -323,6 +338,47 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 </details>
 
 <details>한국어
+### **국제 저널 (International Journal)**
+1. **Sensors (Basel)**  
+   Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
+   **링크:** https://pubmed.ncbi.nlm.nih.gov/32397356/
+
+<br/>
+
+### **국제 학회 (International Conference)**
+1. **AAAI-23 (Oral)**  
+   Sang-Yeong Jo, Sung-Whan Yoon, *POEM: Polarization of Embeddings for Domain-Invariant Representations.*  
+   **논문:** https://arxiv.org/abs/2305.13046
+
+2. **IEEE BCI 2020**  
+   S. Jo, J. Jeong, *Prediction of Visual Memorability with EEG Signals using Deep Neural Networks.*  
+   **링크:** https://ieeexplore.ieee.org/document/9061637
+
+3. **IEEE BigComp 2019**  
+   S.-Y. Jo, S.-H. Jang, H.-E. Cho, J.-W. Jeong, *Scenery-Based Fashion Recommendation with Cross-Domain Generative Adversarial Networks.*  
+   **링크:** https://ieeexplore.ieee.org/document/8679117
+
+<br/>
+
+### **국내 저널 (Domestic Journal)**
+1. *Journal of Korea Institute of Information, Electronics, and Communication Technology*  
+   조상영, 정진우 (2018.10). *IoT CareBots 기반 병실 관리 시스템의 설계 및 구현*, 11(4), 370–378.  
+   **링크:** http://koreascience.or.kr/article/JAKO201827750145326.page
+
+<br/>
+
+### **국내 학회 (Domestic Conference)**
+1. *Proceedings of KIISE Conference 2019*  
+   조상영, 현진혁, 김태산, 황준하, *A Maintenance System for Bicycle Road Using YOLO*, 2019.6.  
+   **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763690
+
+2. *Proceedings of KIIT Conference 2018*  
+   조상영, 조희은, 장선혜, 정진우, *Generation of Nail Art Designs using DiscoGAN*, 2018.6, 230–232.  
+   **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07467662
+
+3. *Korea Software Congress 2017*  
+   김준수, 백승민, 조상영, 정진우, *Patient and Hospital Room Care System using ARTIK Cloud and IoT Sensors*.  
+   **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694
 
 </details>
 
