@@ -1,3 +1,9 @@
+![Focus: Computer Vision](https://img.shields.io/badge/Focus-Computer%20Vision-blue)
+![Research: Domain Generalization](https://img.shields.io/badge/Research-Domain%20Generalization-brightgreen)
+![MLOps](https://img.shields.io/badge/MLOps-DDP%20%7C%20TorchScript%20%7C%20Docker-lightgrey)
+![Updated-2025-08-18](https://img.shields.io/badge/Updated-2025--08--18-informational)
+
+
 # 조상영(Sang-Yeong Jo) — Vision · Multimodal · Core AI Algorithms · MLOps
 
 Robust computer vision & multimodal AI researcher/engineer.
