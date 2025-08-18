@@ -8,6 +8,27 @@ Robust computer vision & multimodal AI researcher/engineer.
 ---
 </br>
 
+<details>
+<summary>🇰🇷 한국어 소개 (펼치기)</summary>
+
+## 한눈에 보기
+- **비전(Vision):** 분류/탐지/분할, **2D/3D 포즈**, 3D 분할 — 임상·제조 환경에 실제 적용
+- **멀티모달(Multimodal):** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 파이프라인, VL 데이터셋 큐레이션)
+- **핵심 알고리즘:** 도메인 일반화(**POEM**, AAAI'23 Oral), 메타러닝, **CCM** 기반 인과, **SWAD/SAM** 등 강건 학습
+- **MLOps/학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Celery**, **W&B** — 엔진화·검증·데이터셋 거버넌스
+
+## 함께 일해요 (Work with Me)
+- **의료/산업용 비전:** 병변 검출, 3D 분할, 결함/이상 탐지
+- **강건 학습:** 도메인 일반화/적응, OOD 평가·커리큘럼 설계
+- **포즈/액션:** 2D/3D 포즈 파이프라인, 동작 품질 점수, 박자 싱크
+- **MLOps:** 대규모 학습(DDP/AMP), 서빙·패키징(TorchScript/`torch.compile`, Docker), API(FastAPI), 워크플로(Celery), 모니터링(W&B)
+
+**의뢰/협업 문의:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)
+
+> **검색 키워드:** 컴퓨터비전, 멀티모달, 도메인 일반화, OOD, 포즈 추정, 의료영상, 제조 AI, 강건학습, 메타러닝, TorchScript, FastAPI, Docker, Celery, DDP, AMP
+</details>
+
+
 ## 🔎 At a Glance
 - **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — shipped in clinical & manufacturing settings
 - **Multimodal:** vision+audio dance-coaching (pose+beat sync), vision+text (CLIP pipelines, VL dataset curation)
