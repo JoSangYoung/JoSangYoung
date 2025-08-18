@@ -1,202 +1,132 @@
-## Welcome to my Github! 👋
-Hi! I am SangYeong Jo who is interested in artificial intelligence, data engineering, data analysis, and research.
+Welcome to my GitHub! 👋
 
-I am an artificial intelligence researcher and engineer.
+Hi! I’m SangYeong Jo — an artificial intelligence researcher & engineer interested in AI, data engineering, data analysis, and research. I design and ship robust vision systems that keep working when environments shift.
 
 If you want to contact me, please leave me a message!
 
-## 👏 Contact
-Mail: jsy7057@gmail.com, jsy7058@unist.ac.kr
+🔎 At a Glance
+
+Vision: CV (classification / detection / segmentation), 2D/3D pose, 3D vision; shipped models in clinical products & manufacturing use‑cases.
+
+Multimodal: Built vision+audio dance‑coaching engine (pose + beat sync) and vision+text pipelines (CLIP‑based product ID, dataset curation for VL tasks).
+
+Core AI Algorithms: AAAI‑23 (Oral) POEM for domain generalization; experience with meta‑learning, causal analysis (CCM), optimization, and robust training (SWAD/SAM).
+
+MLOps & Training: DDP/AMP, TorchScript/torch.compile, Docker, REST APIs, Celery, W&B; engine integration & validation in product environments; dataset governance.
+
+👏 Contact
+
+Email: joinspired42@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/sangyeongjo/
 
-<br/>
+Google Scholar: https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en
 
-## 📚 Education
-- Master of Science in Artificial Intelligence
-  - Ulsan National Institute of Science & Technology (UNIST)
-  - GPA: 3.73 / 4.3
-  - 03/2021 - 02/2023
+GitHub: https://github.com/JoSangYoung
 
-- Bachelor of Engineering in Computer Engineering
-  - Kumoh National Institute of Technology (KIT)
-  - GPA: 4.26 / 4.5
-  - 03/2014 - 02/2020
+📚 Education
 
-<br/>
+Master of Science in Artificial IntelligenceUlsan National Institute of Science & Technology (UNIST)GPA: 3.73 / 4.303/2021 – 02/2023
 
-## 💻 Experiences
-- Neurophet (AI Team)
-  - AI Researcher
-  - 02/2023 - Present
- 
-- Machine Intelligence and Information Learning Lab. of Ulsan National Institute of Science and Technology (UNIST)
-  - Graduate Student
-  - 03/2021 - 02/2023
+Bachelor of Engineering in Computer EngineeringKumoh National Institute of Technology (KIT)GPA: 4.26 / 4.503/2014 – 02/2020
 
-- Korea Institute of Science and Technology (KIST)
-  - Intern Researcher
-  - 05/2020 - 09/2020
+💻 Experiences
 
-- Interactive Lab in Kumoh National Institute of Technology (KIT)
-  - Student Intern
-  - 06/2017 - 02/2020
+Neurophet (Algorithm Research Team)AI Researcher02/2023 – Present– Shipped lesion detection, 3D segmentation, and classification models– Applied robust learning (POEM, SWAD, SAM), performed engine integration & validation– Designed verification procedures and governed training/validation datasets– Contributed from Series‑B stage through KOSDAQ listing
 
-<br/>
+Machine Intelligence & Information Learning Lab., UNISTGraduate Student03/2021 – 02/2023– Research on domain generalization (POEM), causal analysis projects
 
-## 🛒 Skills
-### Artificial Intelligence
--  A.I. FrameWorks
-   -  Tensorflow, Pytorch, Python, Numpy, CUDA
--  BigData
-   -  Apache Spark, Apache Hadoop, MongoDB, MySQL, Pandas
--  Topic
-   -  Computer Vision (Classification, Object detection, Semantic Segmentation)
-   -  Domain Generalization (or Domain Adaptation)
-   -  Optimization
-   -  Meta-Learning (Few-shot learning, MAML, ProtoNet)
-   -  3D Vision (3D Points, NeRF)
-   -  Generative Model (GAN, Diffusion Network)
-   -  Transformer
+Korea Institute of Science and Technology (KIST)Intern Researcher05/2020 – 09/2020– 3D polygon visualization tools; quantitative analysis based on segmentation
 
-### Programming Skills
--  Programming Languages
-   -  Python, C, C++, C#, Java, Javascript, PHP, Matlab
--  Web
-   -  HTML, XML, Django Web framework, Vue.js, Flask Framework, REST API, Bootstrap
--  Mobile Application
-   -  Android studio, Flutter
--  Operating System
-   -  Windows, Linux
--  Communication
-   -  Github, Docker
+Interactive Lab, Kumoh National Institute of Technology (KIT)Student Intern06/2017 – 02/2020– IoT patient‑room system; early CV prototypes
 
-<br/>
+🛒 Skills
 
-## 🤝 Projects
-1. Domain Generalization (Mar/2021 - Present)
-   -  A unique algorithm that extracts domain-invariant representation
-   -  *Skills*: Pytorch, Numpy, Python, Research, Computer Vision, Generalization, Linux,
-Github, Docker
-   - [Git Link](https://github.com/JoSangYoung/Official-POEM)
-   - Paper Link (In press)
+Artificial Intelligence
 
-2. Causal Effect Anlysis (Mar/2021 - Present)
-   - Causal Effect between a pair of signals
-   - *Skills*: Python, Pytorch, Cross Convergent Mapping, Data Analysis, Signal Processing
+AI FrameworksTensorFlow, PyTorch, Python, NumPy, CUDA
 
-3. Manufacturing error simulator (Oct/2021 - Dec/2021)
-   - MLP and Simulation Programming
-   - *Skills*: Python, Pandas, Numpy, Communication, Linux, Data Analysis
+Data & Big DataApache Spark, Apache Hadoop, MongoDB, MySQL, Pandas
 
-4. 3D web viewer of Connection of Synapse (May/2020 - Sep/2020)
-   - 3D Visualization Web Application
-   - *Skills*: Python, Opensource, REST API, 3D Vision, Github
+TopicsComputer Vision (Classification, Object Detection, Semantic Segmentation)Domain Generalization / Domain AdaptationOptimizationMeta‑Learning (Few‑shot learning, MAML, ProtoNet)3D Vision (Point Clouds, NeRF)Generative Models (GAN, Diffusion)Transformer
 
-5. Predicting visual memorability from EEG signal (Nov/2018 - Feb/2020)
-   - Brain Wave Pattern Classification
-   - *Skills*: Python, Pytorch, Braindecode, Machine Learning, Deep Learning, Matlab
+Programming Skills
 
-6. Maintenance system for bicycle road (Apr/2019 - Jun/2019)
-   - Realtime Web/Mobile system with object detection model
-   - *Skills*: Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, Pytorch
-   - [Github](https://github.com/JoSangYoung/Road_Detecting_Map)
+Programming LanguagesPython, C, C++, C#, Java, JavaScript, PHP, MATLAB
 
-7. Generating and recommending fashion item
-   - Generating Fashion Item and Recommendation System
-   - *Skills*: DiscoGAN, MySQL, Web Crawling, Python, Pytorch, Image preprocessing
-   - [Github](https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN)
+WebHTML, XML, Django, Vue.js, Flask, REST API, Bootstrap
 
-8. Patient care system using IoT sensor
-   - Monitoring System using camera, IoT devices, and wearable devices
-   - *Skills*: IoT Device, Django, Node.js, Javascript, Python, ARTIK, 3D Printing
-   - [Github](https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor)
-   - [Youtube](https://www.youtube.com/watch?v=FRA7vulQLTU)
+Mobile ApplicationAndroid Studio, Flutter
 
-<br/>
+Operating SystemsWindows, Linux
 
-## 🏆 Awards and Honors
-1. Citation Prize from Member of the National Assembly (2020)
-   - Citation Prize
+Communication & ToolsGitHub, Docker
 
-2. Undergraduate Academic Competition from The Korean Institute of Information Technology
-   - Second Prize
+🤝 Projects
 
-3. The 2nd IoT Innovation Challenge competition (2017)
-   - Special Prize
+Domain Generalization / POEM (Mar/2021 – Present)– A unique algorithm that learns domain‑invariant representations– Skills: PyTorch, NumPy, Python, Research, Computer Vision, Generalization, Linux, GitHub, Docker– Code: https://github.com/JoSangYoung/Official-POEM– Paper: https://arxiv.org/abs/2305.13046
 
-4. Korea Software Congress 2017 (2017)
-   - Second Prize
+Causal Effect Analysis (Mar/2021 – Present)– Causal effect inference between pairs of signals (CCM)– Skills: Python, PyTorch, Convergent Cross Mapping, Data Analysis, Signal Processing
 
+Manufacturing Error Simulator (Oct/2021 – Dec/2021)– MLP‑based simulator and data workflow for process analysis– Skills: Python, Pandas, NumPy, Communication, Linux, Data Analysis
 
-<br/>
+3D Web Viewer for Synaptic Connections (May/2020 – Sep/2020)– 3D visualization web application– Skills: Python, Open‑source, REST API, 3D Vision, GitHub
 
-## 📃 Publications
-### **International Journal**
+Predicting Visual Memorability from EEG (Nov/2018 – Feb/2020)– Brain‑wave pattern classification– Skills: Python, PyTorch, Braindecode, Machine Learning, Deep Learning, MATLAB
 
-1. MDPI Sensors (Basel)
-    - Jo SY, Jeong JW. Prediction of Visual Memorability with EEG Signals: A Comparative Study. Sensors (Basel).
-    - [Link](https://pubmed.ncbi.nlm.nih.gov/32397356/)
+Bicycle Road Maintenance System (Apr/2019 – Jun/2019)– Real‑time web/mobile system with YOLO‑based detection– Skills: Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch– GitHub: https://github.com/JoSangYoung/Road_Detecting_Map
 
-<br/>
+Generating & Recommending Fashion Items– Generation & recommendation using DiscoGAN– Skills: DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing– GitHub: https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
 
-### **International Conference**
-1. The 37th AAAI conference on Artificial Intelligence
-   - Sang-Yeong Jo and Sung Whan Yoon, "POEM: Polarization of Embeddings for Domain-Invariant Representations," In press.
-  
-2. 2020 8th International Winter Conference on Brain-Computer Interface (BCI)
-   - S. Jo and J. Jeong, "Prediction of Visual Memorability with EEG Signals using Deep Neural Networks," 2020 8th International Winter Conference on Brain-Computer Interface (BCI).
-   - [Link](https://ieeexplore.ieee.org/document/9061637)
+Patient Care System using IoT Sensors– Monitoring via camera, IoT, and wearables– Skills: IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing– GitHub: https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor– YouTube: https://www.youtube.com/watch?v=FRA7vulQLTU
 
-3. 2019 IEEE International Conference on Big Data and Smart Computing (BigComp)
-   - SangYeong. Jo, SunHye. Jang, HeeEun. Cho and JinWoo. Jeong, "Scenery-Based Fashion Recommendation with Cross-Domain Geneartive Adverserial Networks," IEEE International Conference on Big Data and Smart Computing (BigComp).
-   - [Link](https://ieeexplore.ieee.org/document/8679117)
-  
-<br/>
+Real‑time Dance Coaching Engine (Oct/2024 – Jul/2025)– MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch– Skills: PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
 
-### **Domestic Journal**
-1. Journal of Korea Institute of Information, Electronics, and Communication Technology
-   - Sang-Young Jo and Jin-Woo Jeong. (2018, October), Design and Implementation of Hospital Room Management System Based on IoT CareBots, Journal of Korea Institute of Information, Electronics, and Communication Technology, 11(4), 370-378.
-   - [Link](http://koreascience.or.kr/article/JAKO201827750145326.page)
+🏆 Awards and Honors
 
-<br/>
+Commendation (Graduate Representative) — Member of the National Assembly (2020)
 
-### **Domestic Conference**
-1. Proceedings of KIISE Conference 2019
-   - SangYeong. Jo, JinHyeok Hyeon, TaeSan Kim, Junha Hwang, "A Maintenance System for Bicycle Road Using YOLO", Proceedings of the Korean Institute of Information Scientists and Engineers conference, 2019. 6.
-   - [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763690)
-2. Proceedings of KIIT Conference 2018
-   - Sang-Yeong Jo, Hee-Eun Cho, Sun-Hye Jang, Jin-Woo Jeong, Generation of Nail Art Designs using DiscoGAN, Proceedings of KIIT Conference , 2018.6, 230-232(3 pages).
-   - [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07467662)
-3. Korea Software Congress 2017
-   - Jun-Su Kim, Seung-Min Baek, Sang-Young Jo, Jin-Woo Jeong, Patient and Hospital Room Care System using ARTIK Cloud and IoT Sensors, Proceedings of the Korean Institute of Information Scientists and Engineers conference, 11(4), 370-378.
-   - [Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694)
+Undergraduate Academic Competition — The Korean Institute of Information Technology (Second Prize)
 
-<br/>
+IoT Innovation Challenge (2017) — Special Prize
 
-## 🎤 Presentations
-1. UNIST: Core AI Labs Seminar
-   - SWAD: Domain Generalzation By Seeking Flat Minima
-     - [Paper Link](https://arxiv.org/abs/2102.08604)
-     - [Youtube Link](https://www.youtube.com/watch?v=uowNWqqzVs0)
-     - [Page Link](https://sites.google.com/view/core-ai-labs/Seminars/2022-7/220708-1)
-   - Pro-tuning: Unified Prompt Tuing for Vision Tasks
-     - [Paper Link](https://arxiv.org/abs/2207.14381)
-     - [Youtube Link](https://www.youtube.com/watch?v=pNoYt0bzG-s&feature=emb_imp_woyt)
-     - [Page Link](https://sites.google.com/view/core-ai-labs/Seminars/october-2022/2)
+Korea Software Congress 2017 — Second Prize
 
-2. The 2-th UNIST Novatus Academia
-   - [Site Link](https://aipark.unist.ac.kr/novatus/)
-   - Teaching Assistant (TA)
-     - Convolutional Neural Network (CNN)
-   
-3. LG electronics DX Intensive Course (15/Sep/2021)
-   - Teaching Assistant (TA)
-     - Convolutional Neural Network (CNN)
+📃 Publications
 
-4. A.I. 4.0 Studio Mentoring Program
-   - 1-th Program, and 2-th Program
-   - May/2021 - Nov/2021, May/2022 - Nov/2022
-   - Mentor 
-   - [News Link](https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/)
-   - [Youtube Link](https://www.youtube.com/watch?v=HvdRm8p1xF4)
+International Journal
+
+Sensors (Basel)Jo S‑Y, Jeong J‑W. Prediction of Visual Memorability with EEG Signals: A Comparative Study. Sensors, 20(9):2694, 2020.Link: https://pubmed.ncbi.nlm.nih.gov/32397356/
+
+International Conference
+
+AAAI‑23 (Oral)Sang‑Yeong Jo and Sung‑Whan Yoon, POEM: Polarization of Embeddings for Domain‑Invariant Representations.Paper: https://arxiv.org/abs/2305.13046
+
+IEEE BCI 2020S. Jo and J. Jeong, Prediction of Visual Memorability with EEG Signals using Deep Neural Networks.Link: https://ieeexplore.ieee.org/document/9061637
+
+IEEE BigComp 2019S.‑Y. Jo, S.‑H. Jang, H.‑E. Cho, J.‑W. Jeong, Scenery‑Based Fashion Recommendation with Cross‑Domain Generative Adversarial Networks.Link: https://ieeexplore.ieee.org/document/8679117
+
+Domestic Journal
+
+Journal of Korea Institute of Information, Electronics, and Communication TechnologySang‑Young Jo and Jin‑Woo Jeong (2018, Oct). Design and Implementation of Hospital Room Management System Based on IoT CareBots, 11(4), 370–378.Link: http://koreascience.or.kr/article/JAKO201827750145326.page
+
+Domestic Conference
+
+Proceedings of KIISE Conference 2019SangYeong Jo, JinHyeok Hyeon, TaeSan Kim, Junha Hwang, A Maintenance System for Bicycle Road Using YOLO, 2019.6.Link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763690
+
+Proceedings of KIIT Conference 2018Sang‑Yeong Jo, Hee‑Eun Cho, Sun‑Hye Jang, Jin‑Woo Jeong, Generation of Nail Art Designs using DiscoGAN, 2018.6, 230–232.
+Link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07467662
+
+Korea Software Congress 2017Jun‑Su Kim, Seung‑Min Baek, Sang‑Young Jo, Jin‑Woo Jeong, Patient and Hospital Room Care System using ARTIK Cloud and IoT Sensors.Link: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694
+
+🎤 Presentations
+
+UNIST: Core AI Labs Seminar– SWAD: Domain Generalization by Seeking Flat MinimaPaper: https://arxiv.org/abs/2102.08604YouTube: https://www.youtube.com/watch?v=uowNWqqzVs0Page: https://sites.google.com/view/core-ai-labs/Seminars/2022-7/220708-1
+– Pro‑tuning: Unified Prompt Tuning for Vision TasksPaper: https://arxiv.org/abs/2207.14381YouTube: https://www.youtube.com/watch?v=pNoYt0bzG-sPage: https://sites.google.com/view/core-ai-labs/Seminars/october-2022/2
+
+The 2nd UNIST Novatus Academia– Teaching Assistant (CNN)Site: https://aipark.unist.ac.kr/novatus/
+
+LG Electronics DX Intensive Course (2021‑09‑15)– Teaching Assistant (CNN)
+
+A.I. 4.0 Studio Mentoring Program– 1st & 2nd programs– May/2021 – Nov/2021; May/2022 – Nov/2022– MentorNews: https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/YouTube: https://www.youtube.com/watch?v=HvdRm8p1xF4
+
