@@ -34,7 +34,7 @@ Robust computer vision & multimodal AI researcher/engineer.
 - **MLOps & 학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — 엔진 통합, 검증, 데이터셋 거버넌스
 
 </details>
----
+
 </br>
 
 ## 🤝 Work with Me
