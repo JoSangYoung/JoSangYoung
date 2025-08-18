@@ -15,24 +15,24 @@ Robust computer vision & multimodal AI researcher/engineer.
 <details>
 <summary>English</summary>
 
-- **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — deployed in clinical & manufacturing settings
+- **Vision:** classification / detection / segmentation, 2D/3D pose, 3D vision — deployed in clinical & manufacturing settings
 - **Multimodal:** vision+audio dance coaching (pose + beat sync), vision+text (CLIP pipelines, vision–language (VL) dataset curation)
 - **Medical/Industrial CV:** lesion detection, 3D image segmentation, anomaly/defect detection
 - **Core AI Algorithms:** **POEM** for domain generalization (AAAI’23 Oral), meta-learning, causal analysis (CCM), robust training (SWAD/SAM)
 - **Pose/Action:** 2D/3D pose estimation pipelines, motion-quality scoring, tempo synchronization
-- **MLOps & Training:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — engine integration, validation, dataset governance
+- **MLOps & Training:** DDP/AMP, TorchScript/torch.compile, Docker, FastAPI/Flask, Celery, W&B — engine integration, validation, dataset governance
 
 </details>
 
 <details>
 <summary>한국어</summary>
 
-- **Vision:** 탐지 / 분할 / 분류, **2D/3D 포즈**, **3D 비전** — 임상/제조 환경에 실제 배포 경험
+- **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 비전 — 임상/제조 환경에 실제 배포 경험
 - **Multimodal:** 비전+오디오(포즈·비트 싱크), 비전+텍스트(CLIP 파이프라인, 비전-언어(VL) 데이터셋 큐레이션)
 - **Medical/Industrial CV:** 병변 검출, 3D 이미지 분할, 결함/이상 탐지
 - **핵심 알고리즘:** 도메인 일반화 **POEM**(AAAI’23 Oral), 메타러닝, 인과 분석(CCM), 강건 학습(SWAD/SAM)
 - **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 템포 동기화
-- **MLOps & 학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — 엔진 통합, 검증, 데이터셋 거버넌스
+- **MLOps & 학습:** DDP/AMP, TorchScript/torch.compile, Docker, FastAPI/Flask, Celery, W&B — 엔진 통합, 검증, 데이터셋 거버넌스
 
 </details>
 
@@ -41,7 +41,7 @@ Robust computer vision & multimodal AI researcher/engineer.
 ## 🤝 Work with Me
 <details>
 <summary>English</summary>
-I help teams **ship reliable vision/multimodal AI** from prototype → product.
+I help teams ship reliable vision/multimodal AI from prototype → product.
 
 - **Vision:** detection / segmentation / classification, 2D/3D pose, 3D segmentation; external-set robustness & deployment (PyTorch, TensorFlow, Keras)
 - **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), LLM-assisted dataset curation & feedback generation
@@ -55,7 +55,7 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 
 <details>
 <summary>한국어</summary>
-팀이 신뢰할 수 있는 비전/멀티모달 **AI**를 프로토타입 → 제품으로 **실제 배포**하도록 돕습니다.
+팀이 신뢰할 수 있는 비전/멀티모달 AI를 프로토타입 → 제품으로 실제 배포하도록 돕습니다.
 
 - **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(PyTorch, TensorFlow, Keras)
 - **Multimodal:** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 기반 검색 & 제품 식별), LLM 보조 데이터셋 큐레이션 & 피드백 생성
