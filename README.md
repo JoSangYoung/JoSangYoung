@@ -63,7 +63,7 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 - **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 리듬/템포 싱크
 - **MLOps:** 대규모 학습(**DDP/AMP**), 서빙·패키징(**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** 파이프라인, 모니터링(**W&B**), 평가·검증
 
-**👉 협업/의뢰:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)으로 연락해주세요.
+**👉 채용/협업/의뢰:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)으로 연락해주세요.
 
 </details>
 
