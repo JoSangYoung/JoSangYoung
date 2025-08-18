@@ -8,34 +8,12 @@ Robust computer vision & multimodal AI researcher/engineer.
 ---
 </br>
 
-<details>
-<summary>🇰🇷 한국어 소개 (펼치기)</summary>
-
-## 한눈에 보기
-- **비전(Vision):** 분류/탐지/분할, **2D/3D 포즈**, 3D 분할 — 임상·제조 환경에 실제 적용
-- **멀티모달(Multimodal):** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 파이프라인, VL 데이터셋 큐레이션)
-- **핵심 알고리즘:** 도메인 일반화(**POEM**, AAAI'23 Oral), 메타러닝, **CCM** 기반 인과, **SWAD/SAM** 등 강건 학습
-- **MLOps/학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Celery**, **W&B** — 엔진화·검증·데이터셋 거버넌스
-
-## 함께 일해요 (Work with Me)
-- **의료/산업용 비전:** 병변 검출, 3D 분할, 결함/이상 탐지
-- **강건 학습:** 도메인 일반화/적응, OOD 평가·커리큘럼 설계
-- **포즈/액션:** 2D/3D 포즈 파이프라인, 동작 품질 점수, 박자 싱크
-- **MLOps:** 대규모 학습(DDP/AMP), 서빙·패키징(TorchScript/`torch.compile`, Docker), API(FastAPI), 워크플로(Celery), 모니터링(W&B)
-
-**의뢰/협업 문의:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)
-
-> **검색 키워드:** 컴퓨터비전, 멀티모달, 도메인 일반화, OOD, 포즈 추정, 의료영상, 제조 AI, 강건학습, 메타러닝, TorchScript, FastAPI, Docker, Celery, DDP, AMP
-</details>
-
 
 ## 🔎 At a Glance
 - **Vision:** classification / detection / segmentation, **2D/3D pose**, **3D vision** — shipped in clinical & manufacturing settings
 - **Multimodal:** vision+audio dance-coaching (pose+beat sync), vision+text (CLIP pipelines, VL dataset curation)
 - **Core AI Algorithms:** **POEM** for domain generalization (AAAI’23 Oral), meta-learning, causal analysis (CCM), robust training (SWAD/SAM)
 - **MLOps & Training:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — engine integration, validation, dataset governance
-
-> 🇰🇷 **키워드**: 컴퓨터비전, 도메인 일반화, 2D/3D 포즈, 의료영상, 강건학습, 메타러닝, MLOps, 모델 배포, 추론 최적화, 데이터셋 거버넌스
 
 ---
 </br>
@@ -63,6 +41,50 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
 - **GitHub:** https://github.com/JoSangYoung
 
 <br/>
+
+# SangYeong Jo — 비전(Vision) · 멀티모달(Multimodal) · 핵심 AI 알고리즘 · MLOps
+
+견고한 컴퓨터 비전 & 멀티모달 AI 연구자/엔지니어입니다.  
+**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **의료/산업용 컴퓨터 비전** · **MLOps (DDP/AMP, TorchScript/`torch.compile`, Docker, FastAPI, Celery, W&B)**
+
+[📧 이메일](mailto:joinspired42@gmail.com) · [🔗 링크드인](https://www.linkedin.com/in/sangyeongjo/) · [🎓 구글 스칼라](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=ko) · [👨‍💻 깃허브](https://github.com/JoSangYoung)
+
+---
+</br>
+
+## 🔎 한눈에 보기 (At a Glance)
+- **Vision:** 분류/탐지/분할, **2D/3D 포즈**, **3D 비전** — 임상·제조 환경에 실제 배포 경험
+- **Multimodal:** 비전+오디오 댄스 코칭(포즈+비트 싱크), 비전+텍스트(CLIP 파이프라인, VL 데이터셋 큐레이션)
+- **핵심 AI 알고리즘:** 도메인 일반화 **POEM**(AAAI’23 Oral), 메타러닝, 인과분석(CCM), 강건 학습(SWAD/SAM)
+- **MLOps & 학습:** **DDP/AMP**, **TorchScript/`torch.compile`**, **Docker**, **FastAPI/Flask**, **Celery**, **W&B** — 엔진 통합, 검증, 데이터셋 거버넌스
+
+---
+</br>
+
+## 🤝 Work with Me
+팀이 **신뢰할 수 있는 비전/멀티모달 AI**를 프로토타입 → 제품으로 **실제 배포**하도록 돕습니다.
+
+- **Vision:** 탐지 / 분할 / 분류, **2D/3D 포즈**, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(Python/PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
+- **Multimodal:** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 기반 검색 & 제품 식별), **LLM 보조** 데이터셋 큐레이션 & 피드백 생성
+- **Medical/Industrial CV:** 병변 검출, 3D 분할, 결함/이상 탐지
+- **Robust Learning:** 도메인 일반화/적응(**POEM**, SWAD/SAM), OOD 평가 및 커리큘럼 설계
+- **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 리듬/템포 싱크
+- **MLOps:** 대규모 학습(**DDP/AMP**), 서빙·패키징(**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** 파이프라인, 모니터링(**W&B**), 평가·검증
+
+**👉 협업/의뢰:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)으로 연락해주세요.
+
+---
+<br/>
+
+## 👏 연락처 (Contact)
+- **Email:** joinspired42@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/sangyeongjo/  
+- **Google Scholar:** https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=ko  
+- **GitHub:** https://github.com/JoSangYoung
+
+<br/>
+
+<detail>
 
 ## 📚 Education
 - **Master of Science in Artificial Intelligence**  
@@ -255,3 +277,5 @@ I help teams **ship reliable vision/multimodal AI** from prototype → product.
    – Mentor  
    **News:** https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/  
    **YouTube:** https://www.youtube.com/watch?v=HvdRm8p1xF4
+
+</detail>
