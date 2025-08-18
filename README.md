@@ -43,26 +43,26 @@ Robust computer vision & multimodal AI researcher/engineer.
 <summary>English</summary>
 I help teams **ship reliable vision/multimodal AI** from prototype → product.
 
-- **Vision:** detection / segmentation / classification, **2D/3D pose**, 3D segmentation; external-set robustness & deployment (PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
-- **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), **LLM-assisted** dataset curation & feedback generation
+- **Vision:** detection / segmentation / classification, 2D/3D pose, 3D segmentation; external-set robustness & deployment (PyTorch, TensorFlow, Keras)
+- **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), LLM-assisted dataset curation & feedback generation
 - **Medical/Industrial CV:** lesion detection, 3D segmentation, defect/anomaly detection
 - **Robust Learning:** domain generalization/adaptation (**POEM**, SWAD/SAM), OOD evaluation & curricula design
 - **Pose/Action:** 2D/3D pose pipelines, motion quality scoring, rhythm/tempo sync
-- **MLOps:** training at scale (**DDP/AMP**), serving & packaging (**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** pipelines, monitoring (**W&B**), evaluation & validation
+- **MLOps:** training at scale (**DDP/AMP**), serving & packaging (**TorchScript/torch.compile**, **Docker**), **FastAPI**/**Celery** pipelines, monitoring (**W&B**), evaluation & validation
 
 **👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).
 </details>
 
 <details>
 <summary>한국어</summary>
-팀이 **신뢰할 수 있는 비전/멀티모달 AI**를 프로토타입 → 제품으로 **실제 배포**하도록 돕습니다.
+팀이 신뢰할 수 있는 비전/멀티모달 **AI**를 프로토타입 → 제품으로 **실제 배포**하도록 돕습니다.
 
-- **Vision:** 탐지 / 분할 / 분류, **2D/3D 포즈**, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(Python/PyTorch, **MONAI**, **MMPose**, **MotionBERT**)
-- **Multimodal:** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 기반 검색 & 제품 식별), **LLM 보조** 데이터셋 큐레이션 & 피드백 생성
+- **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(PyTorch, TensorFlow, Keras)
+- **Multimodal:** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 기반 검색 & 제품 식별), LLM 보조 데이터셋 큐레이션 & 피드백 생성
 - **Medical/Industrial CV:** 병변 검출, 3D 분할, 결함/이상 탐지
 - **Robust Learning:** 도메인 일반화/적응(**POEM**, SWAD/SAM), OOD 평가 및 커리큘럼 설계
 - **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 리듬/템포 싱크
-- **MLOps:** 대규모 학습(**DDP/AMP**), 서빙·패키징(**TorchScript/`torch.compile`**, **Docker**), **FastAPI**/**Celery** 파이프라인, 모니터링(**W&B**), 평가·검증
+- **MLOps:** 대규모 학습(**DDP/AMP**), 서빙·패키징(**TorchScript/torch.compile**, **Docker**), **FastAPI**/**Celery** 파이프라인, 모니터링(**W&B**), 평가·검증
 
 **👉 채용/협업/의뢰:** [이메일](mailto:joinspired42@gmail.com) 또는 [LinkedIn DM](https://www.linkedin.com/in/sangyeongjo/)으로 연락해주세요.
 
