@@ -369,6 +369,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 📃 Publications
 <details>
   <summary>English</summary>
+  
   ### **International Journal**
 1. **Sensors (Basel)**  
    Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
@@ -415,6 +416,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <details>
   <summary>한국어</summary>
+  
 ### **국제 저널 (International Journal)**
 1. **Sensors (Basel)**  
    Jo S-Y, Jeong J-W. *Prediction of Visual Memorability with EEG Signals: A Comparative Study.* Sensors, 20(9):2694, 2020.  
