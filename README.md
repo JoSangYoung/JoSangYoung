@@ -83,6 +83,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 📚 교육 (Education)
 <details>
 <summary>English</summary>
+  
 - **Master of Science in Artificial Intelligence**  
   Ulsan National Institute of Science & Technology (UNIST)  
   GPA: **3.73 / 4.3**  
@@ -98,6 +99,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <details>
   <summary>한국어</summary>
+  
   - **인공지능 석사 (Master of Science in Artificial Intelligence)**  
   울산과학기술원(UNIST)  
   평균학점: **3.73 / 4.3**  
