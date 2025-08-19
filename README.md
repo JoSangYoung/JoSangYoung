@@ -119,6 +119,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 💻 Experiences
 <details>
   <summary>English</summary>
+  
 - **Neurophet (Algorithm Research Team)**  
   *AI Researcher*  
   **02/2023 – Present**  
@@ -145,6 +146,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <details>
   <summary>한국어</summary>
+  
 - **뉴로핏 (Algorithm Research Team)**  
   *AI 연구원*  
   **2023.02 – 현재**  
@@ -176,6 +178,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 🛒 Skills
 <details>
   <summary>English</summary>
+  
   ### Artificial Intelligence
 - **AI Frameworks**  
   TensorFlow, PyTorch, Python, NumPy, CUDA
@@ -206,6 +209,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <details>
   <summary>한국어</summary>
+  
   ### 인공지능 (Artificial Intelligence)
 - **AI 프레임워크**  
   TensorFlow, PyTorch, Python, NumPy, CUDA
@@ -237,9 +241,10 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <br/>
 
-## 🤝 Projects
+## 🤝 프로젝트(Projects)
 <details>
   <summary>English</summary>
+  
 1. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
    – MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch  
    – *Skills:* PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
@@ -294,9 +299,11 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
     – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
     – **YouTube:** https://www.youtube.com/watch?v=FRA7vulQLTU
 </details>
+
+
 <details>
   <summary>한국어</summary>
-## 🤝 프로젝트 (Projects)
+  
 1. **실시간 댄스 코칭 엔진** *(2024.10 – 2025.07)*  
    – MotionBERT 3D 포즈 + MMPose 2D 키포인트; 스켈레톤 정렬 & 비트 싱크; 실시간/비동기 지원  
    – *기술:* PyTorch, FastAPI/Flask, Celery, Docker; 지표: 자세 유사도, 리듬 매칭, 칼로리 추정
@@ -484,7 +491,12 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 🎤 Presentations
 <details>
   <summary>English</summary>
-  1. **UNIST: Core AI Labs Seminar**  
+  
+  1. **Guest Lecturer, Gachon University — Industry–Academia AI Program**
+     - 2023.08 / 2024.01 / 2024.07
+     - Topics: AI Fundamentals, CNNs, Computer Vision, Segmentation**
+    
+  2. **UNIST: Core AI Labs Seminar**  
    – *SWAD: Domain Generalization by Seeking Flat Minima*  
      **Paper:** https://arxiv.org/abs/2102.08604  
      **YouTube:** https://www.youtube.com/watch?v=uowNWqqzVs0  
@@ -494,14 +506,14 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
      **YouTube:** https://www.youtube.com/watch?v=pNoYt0bzG-s  
      **Page:** https://sites.google.com/view/core-ai-labs/Seminars/october-2022/2
 
-2. **The 2nd UNIST Novatus Academia**  
+3. **The 2nd UNIST Novatus Academia**  
    – Teaching Assistant (CNN)  
    **Site:** https://aipark.unist.ac.kr/novatus/
 
-3. **LG Electronics DX Intensive Course (2021-09-15)**  
+4. **LG Electronics DX Intensive Course (2021-09-15)**  
    – Teaching Assistant (CNN)
 
-4. **A.I. 4.0 Studio Mentoring Program**  
+5. **A.I. 4.0 Studio Mentoring Program**  
    – 1st & 2nd programs  
    – May/2021 – Nov/2021; May/2022 – Nov/2022  
    – Mentor  
@@ -510,7 +522,12 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 </details>
 <details>
   <summary>한국어</summary>
-  1. **UNIST: Core AI Labs Seminar**  
+  
+  1. **가천대학교 기업 연계 인공지능 특강 강사**
+    - 2023.08 / 2024.01 / 2024.07
+    - 인공지능 기초, CNN, Vision, Segmentation
+  
+  2. **UNIST: Core AI Labs Seminar**  
    – *SWAD: Domain Generalization by Seeking Flat Minima*  
      **Paper:** https://arxiv.org/abs/2102.08604  
      **YouTube:** https://www.youtube.com/watch?v=uowNWqqzVs0  
@@ -520,14 +537,14 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
      **YouTube:** https://www.youtube.com/watch?v=pNoYt0bzG-s  
      **Page:** https://sites.google.com/view/core-ai-labs/Seminars/october-2022/2
 
-2. **제2회 UNIST Novatus Academia**  
+3. **제2회 UNIST Novatus Academia**  
    – 조교(CNN)  
    **Site:** https://aipark.unist.ac.kr/novatus/
 
-3. **LG Electronics DX Intensive Course (2021-09-15)**  
+4. **LG Electronics DX Intensive Course (2021-09-15)**  
    – 조교(CNN)
 
-4. **A.I. 4.0 Studio Mentoring Program**  
+5. **A.I. 4.0 Studio Mentoring Program**  
    – 1·2기 멘토 (2021.05 – 2021.11; 2022.05 – 2022.11)  
    **News:** https://news.unist.ac.kr/successful-completion-of-ulju-a-i-4-0-studio/  
    **YouTube:** https://www.youtube.com/watch?v=HvdRm8p1xF4
