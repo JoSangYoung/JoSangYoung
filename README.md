@@ -446,15 +446,15 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 ### **국내 학회 (Domestic Conference)**
 1. *Proceedings of KIISE Conference 2019*  
-   조상영, 현진혁, 김태산, 황준하, *A Maintenance System for Bicycle Road Using YOLO*, 2019.6.  
+   조상영, 현진혁, 김태산, 황준하, *YOLO를 활용한 자전거 도로 유지보수 지원 시스템*, 2019.6.  
    **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08763690
 
 2. *Proceedings of KIIT Conference 2018*  
-   조상영, 조희은, 장선혜, 정진우, *Generation of Nail Art Designs using DiscoGAN*, 2018.6, 230–232.  
+   조상영, 조희은, 장선혜, 정진우, *DiscoGAN을 활용한 네일아트 디자인 생성*, 2018.6, 230–232.  
    **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07467662
 
 3. *Korea Software Congress 2017*  
-   김준수, 백승민, 조상영, 정진우, *Patient and Hospital Room Care System using ARTIK Cloud and IoT Sensors*.  
+   김준수, 백승민, 조상영, 정진우, *아틱 클라우드와 IoT 센서를 이용한 환자 및 병실 관리 지원 시스템*.  
    **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694
 
 </details>
