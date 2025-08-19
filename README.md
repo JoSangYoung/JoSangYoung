@@ -348,19 +348,29 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 🏆 Awards and Honors
 <details>
   <summary>English</summary>
+  
 1. **Oral Session Presentation (2023)** — AAAI 2023
-2.  **Commendation (Graduate Representative)** — Member of the National Assembly (2020)
+
+2. **Commendation (Graduate Representative)** — Member of the National Assembly (2020)
+
 3. **Undergraduate Academic Competition** — The Korean Institute of Information Technology (Second Prize)
+ 
 4. **IoT Innovation Challenge** (2017) — Special Prize
+
 5. **Korea Software Congress 2017** — Second Prize
 </details>
 
 <details>
   <summary>한국어</summary>
+  
 1. **Oral sessino 발표 (2023)** — AAAI 2023
+
 2. **졸업생 대표 표창장 (2020)** — 국회의원 표창
+   
 3. **정보기술학회 대학생 논문경진대회 (2018)** — 정보기술학회(은상)
+   
 4. **IoT 이노베이션 챌린지** (2017) — 한국전자정보통신산업진흥회(입선)
+   
 5. **한국소프트웨어종합학술대회** — 한국정보과학회(우수상)
 </details>
 
