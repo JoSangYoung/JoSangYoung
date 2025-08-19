@@ -48,6 +48,7 @@ Robust computer vision & multimodal AI researcher/engineer.
 <details>
 <summary>English</summary>
 I help teams ship reliable vision/multimodal AI from prototype → product.
+</br>
 
 - **Vision:** detection / segmentation / classification, 2D/3D pose, 3D segmentation; external-set robustness & deployment (PyTorch, TensorFlow, Keras)
 - **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), LLM-assisted dataset curation & feedback generation
@@ -62,6 +63,7 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 <details>
 <summary>한국어</summary>
 팀이 신뢰할 수 있는 비전/멀티모달 AI를 프로토타입 → 제품으로 실제 배포하도록 돕습니다.
+</br>
 
 - **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(PyTorch, TensorFlow, Keras)
 - **Multimodal:** 비전+오디오(비트/템포 싱크), 비전+텍스트(CLIP 기반 검색 & 제품 식별), LLM 보조 데이터셋 큐레이션 & 피드백 생성
@@ -86,6 +88,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
   GPA: **3.73 / 4.3**  
   **03/2021 – 02/2023**
 
+</br>
+
 - **Bachelor of Engineering in Computer Engineering**  
   Kumoh National Institute of Technology (KIT)  
   GPA: **4.26 / 4.5**  
@@ -98,6 +102,8 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
   울산과학기술원(UNIST)  
   평균학점: **3.73 / 4.3**  
   **2021.03 – 2023.02**
+  
+</br>
 
 - **컴퓨터공학 학사 (Bachelor of Engineering in Computer Engineering)**  
   금오공과대학교(KIT)  
