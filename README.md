@@ -528,6 +528,7 @@ Helping teams bridge the gap between AI ideation and real-world deployment with 
 ## 📜 Certifications
 <details>
 <summary>English</summary>
+  
 - Linux Master Level 2 (KAIT) | Jan 2026
   
 - Distribution Manager Level 2 (KCCI) | Dec 2025
