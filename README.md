@@ -1,4 +1,4 @@
-![Research: Domain Generalization | ComputerVision | MultiModal | MetaLearning](https://img.shields.io/badge/Research-Domain%20Generalization-brightgreen)
+![Research: Machine Learning | Domain Generalization | Computer Vision | Multi-Modal | Meta-Learning | Optimization](https://img.shields.io/badge/Research-Domain%20Generalization-brightgreen)
 ![MLOps](https://img.shields.io/badge/MLOps-DDP%20%7C%20TorchScript%20%7C%20Docker-lightgrey)
 ![Updated-2025-08-18](https://img.shields.io/badge/Updated-2025--08--18-informational)
 
