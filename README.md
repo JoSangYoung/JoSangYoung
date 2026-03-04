@@ -523,9 +523,9 @@ Helping teams bridge the gap between AI ideation and real-world deployment with 
 
 </details>
 
-</br>
+<br/>
 
-📜 Certifications
+## 📜 Certifications
 <details>
 <summary>English</summary>
 – Linux Master Level 2 (KAIT) | Jan 2026
@@ -554,7 +554,7 @@ Helping teams bridge the gap between AI ideation and real-world deployment with 
 
 </details>
 
-</br>
+<br/>
 
 ## 🎤 Presentations
 <details>
