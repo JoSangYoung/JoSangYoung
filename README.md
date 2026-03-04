@@ -6,7 +6,7 @@
 
 ![MLOps](https://img.shields.io/badge/MLOps-DDP%20%7C%20TorchScript%20%7C%20Docker-lightgrey)
 
-![Updated-2025-08-18](https://img.shields.io/badge/Updated-2025--08--18-informational)
+![Updated-2025-08-18](https://img.shields.io/badge/Updated-2026--03--04-informational)
 
 
 # 조상영(Sang-Yeong Jo) — Vision · Multimodal · Core AI Algorithms · MLOps
