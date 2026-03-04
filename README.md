@@ -20,6 +20,15 @@ Model Robustness, computer vision, multimodal AI, and Optimization algorithm res
 ---
 </br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoSangYoung&show_icons=true&theme=radical" alt="Sang-Yeong Jo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSangYoung&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoSangYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+</p>
+
 
 ## 🔎 한눈에 보기 (At a Glance)
 <details>
