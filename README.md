@@ -33,12 +33,12 @@ Robust computer vision & multimodal AI researcher/engineer.
 <details>
 <summary>한국어</summary>
 
-- **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 비전 — 임상/제조 환경에 실제 배포 경험
-- **Multimodal:** 비전+오디오(포즈·비트 싱크), 비전+텍스트(CLIP 파이프라인, 비전-언어(VL) 데이터셋 큐레이션)
+- **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 비전, 이미지 생성 — 의료/제조/산업 환경에 실제 배포 경험
+- **Multimodal:** 비전+오디오, 비전+텍스트, 비전+비전
 - **Medical/Industrial CV:** 병변 검출, 3D 이미지 분할, 결함/이상 탐지
-- **핵심 알고리즘:** 도메인 일반화 **POEM**(AAAI’23 Oral), 메타러닝, 인과 분석(CCM), 강건 학습(SWAD/SAM)
-- **Pose/Action:** 2D/3D 포즈 파이프라인, 동작 품질 점수화, 템포 동기화
-- **MLOps & 학습:** DDP/AMP, TorchScript/torch.compile, Docker, FastAPI/Flask, Celery, W&B — 엔진 통합, 검증, 데이터셋 거버넌스
+- **핵심 알고리즘:** 도메인 일반화, 도메인 적응, 컴퓨터 비전, 메타러닝, 인과 분석, 강건 학습, 머신러닝, 빅데이터 분석
+- **MLOps & 학습:** PyTorch, TensorFlow, DDP/AMP/TorchScript/torch.compile, Docker, FastAPI/Flask/Django, Celery
+- **Database:** Redis, MySQL, PostgreSQL, MongoDB, Hadoop
 
 </details>
 
@@ -47,22 +47,22 @@ Robust computer vision & multimodal AI researcher/engineer.
 ## 🤝 함께 일하기 (Work with Me)
 <details>
 <summary>English</summary>
-I help teams ship reliable vision/multimodal AI from prototype → product.
+Helping teams bridge the gap between AI ideation and real-world deployment with a focus on reliability and trust.
 </br>
 
-- **Vision:** detection / segmentation / classification, 2D/3D pose, 3D segmentation; external-set robustness & deployment (PyTorch, TensorFlow, Keras)
-- **Multimodal:** vision+audio (beat/tempo sync), vision+text (CLIP retrieval & product ID), LLM-assisted dataset curation & feedback generation
+- **Vision:** object-detection / segmentation / classification, 2D/3D pose, 3D segmentation, Image Generative AI; external-set robustness & deployment
+- **Multimodal:** vision+audio, vision+text, vision+vision
 - **Medical/Industrial CV:** lesion detection, 3D segmentation, defect/anomaly detection
-- **Robust Learning:** domain generalization/adaptation (**POEM**, SWAD/SAM), OOD evaluation & curricula design
-- **Pose/Action:** 2D/3D pose pipelines, motion quality scoring, rhythm/tempo sync
-- **MLOps:** training at scale (**DDP/AMP**), serving & packaging (**TorchScript/torch.compile**, **Docker**), **FastAPI**/**Celery** pipelines, monitoring (**W&B**), evaluation & validation
+- **Core Algorithm:** Domain generalization/adaptation, Computer Vision, Meta-Learning, Causal Learning, Robust training, Machine Learning, Big Data Analysis
+- **MLOps:** PyTorch, TensorFlow, DDP/AMP/TorchScript/torch.compile, Docker, FastAPI/Flask/Django, Celery
+- **Database:** Redis, MySQL, PostgreSQL, MongoDB, Hadoop
 
 **👉 Hire/Collaborate:** [Email me](mailto:joinspired42@gmail.com) or DM via [LinkedIn](https://www.linkedin.com/in/sangyeongjo/).
 </details>
 
 <details>
 <summary>한국어</summary>
-팀이 신뢰할 수 있는 비전/멀티모달 AI를 프로토타입 → 제품으로 실제 배포하도록 돕습니다.
+아이디어를 제시하고, 팀이 신뢰할 수 있는 AI를 테스트하고 제품으로 실제 배포하도록 돕습니다.
 </br>
 
 - **Vision:** 탐지 / 분할 / 분류, 2D/3D 포즈, 3D 세그멘테이션; 외부 검증 세트 강건성 및 배포(PyTorch, TensorFlow, Keras)
@@ -244,56 +244,75 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 ## 🤝 프로젝트(Projects)
 <details>
   <summary>English</summary>
-  
-1. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
+1. **Multiple Sclerosis (MS) Detection Project** *(Jan/2026 – Present)*  
+   – Developed an AI-based diagnostic support solution for Multiple Sclerosis by performing integrated analysis of multi-modal medical images
+   – utilizing advanced segmentation and multi-modal learning techniques 
+   – *Skills:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+2. **Anomaly Detection Module Development** *(Jan/2026 – Present)*  
+   – Engineered a universal anomaly detection module deployed across all company products
+   – Implemented OOD (Out-of-Distribution) detection to filter outliers in feature space across diverse anatomical regions, modalities, and imaging environments.
+   – *Skills:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+3. **Image Segmentation Label Generation & Optimization** *(Jun/2025 – Oct/2025)*  
+   – Streamlined the medical image labeling process by developing an automated generation pipeline
+   – Utilized a DINO-Diffusion approach to simultaneously enhance image quality and generate high-precision segmentation labels. 
+   – *Skills:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+4. **Micro-lesion Detection Engine for MRI** *(Apr/2023 – Jan/2026)*  
+   – Led the development of a detection engine for Cerebral Microbleeds (CMB) and Cortical Superficial Siderosis (cSS)
+   – Integrated segmentation, object detection, and classification models while establishing a robust validation process and an Active Learning pipeline to accelerate labeling. 
+   – *Skills:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+5. **Real-time Dance Coaching Engine** *(Oct/2024 – Jul/2025)*  
    – MotionBERT 3D pose + MMPose 2D keypoints; skeleton alignment & beat sync; live & batch  
    – *Skills:* PyTorch, FastAPI/Flask, Celery, Docker; metrics: posture similarity, rhythm match, calorie estimation
 
-2. **Skin Analysis & Product Recommendation** *(May/2023 – Dec/2023)*  
+6. **Skin Analysis & Product Recommendation** *(May/2023 – Dec/2023)*  
    – Mobile skin-image analysis and personalized cosmetics recommendation (Flutter–Django)  
    – *Skills:* Flutter, Django, MySQL, REST API
 
-3. **Domain Generalization / POEM** *(Apr/2021 – Feb/2023)*  
+7. **Domain Generalization / POEM** *(Apr/2021 – Feb/2023)*  
    – Learns **domain-invariant representations** for robust generalization  
    – *Skills:* PyTorch, NumPy, Python, Research, Computer Vision, Generalization, Linux, GitHub, Docker  
    – **Code:** https://github.com/JoSangYoung/Official-POEM  
    – **Paper:** https://arxiv.org/abs/2305.13046
 
-4. **Causal Effect Analysis** *(Mar/2022 – Feb/2023)*  
+8. **Causal Effect Analysis** *(Mar/2022 – Feb/2023)*  
    – Causal effect inference between signal pairs using **Convergent Cross Mapping (CCM)**  
    – *Skills:* Python, PyTorch, CCM, Data Analysis, Signal Processing
 
-5. **Meta-learning on 3D Point Clouds** *(Oct/2022 – Dec/2022)*  
+9. **Meta-learning on 3D Point Clouds** *(Oct/2022 – Dec/2022)*  
    – PointNet with task-conditioned adaptation under few-shot settings  
    – *Skills:* TensorFlow, CUDA, 3D Point Cloud Classification
 
-6. **Clustering-based Feature Meta-learning** *(Jun/2022 – Dec/2022)*  
+10. **Clustering-based Feature Meta-learning** *(Jun/2022 – Dec/2022)*  
    – ProtoNet + feature clustering for outlier removal in embedding space  
    – *Skills:* PyTorch, scikit-learn, learn2learn, CUDA
 
-7. **Manufacturing Error Simulator** *(Oct/2021 – Dec/2021)*  
+11. **Manufacturing Error Simulator** *(Oct/2021 – Dec/2021)*  
    – MLP-based simulator and data workflow for process analysis  
    – *Skills:* Python, Pandas, NumPy, Communication, Linux, Data Analysis
 
-8. **3D Web Viewer for Synaptic Connections** *(May/2020 – Sep/2020)*  
+12. **3D Web Viewer for Synaptic Connections** *(May/2020 – Sep/2020)*  
    – 3D visualization web application  
    – *Skills:* Python, Open-source, REST API, 3D Vision, GitHub
 
-9. **Predicting Visual Memorability from EEG** *(Nov/2018 – Feb/2020)*  
+13. **Predicting Visual Memorability from EEG** *(Nov/2018 – Feb/2020)*  
    – Brain-wave pattern classification for visual memorability  
    – *Skills:* Python, PyTorch, Braindecode, Machine Learning, Deep Learning, MATLAB
 
-10. **Bicycle Road Maintenance System** *(Apr/2019 – Jun/2019)*  
+14. **Bicycle Road Maintenance System** *(Apr/2019 – Jun/2019)*  
     – Real-time web/mobile system with YOLO-based detection  
     – *Skills:* Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch  
     – **GitHub:** https://github.com/JoSangYoung/Road_Detecting_Map
 
-11. **Generating & Recommending Fashion Items** *(Apr/2018 – Dec/2018)*  
+15. **Generating & Recommending Fashion Items** *(Apr/2018 – Dec/2018)*  
     – Generation & recommendation using **DiscoGAN**  
     – *Skills:* DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing  
     – **GitHub:** https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
 
-12. **Patient Care System using IoT Sensors** *(Jun/2017 – Nov/2017)*  
+16. **Patient Care System using IoT Sensors** *(Jun/2017 – Nov/2017)*  
     – Monitoring via camera, IoT, and wearables  
     – *Skills:* IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing  
     – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
@@ -303,56 +322,74 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 
 <details>
   <summary>한국어</summary>
-  
-1. **실시간 댄스 코칭 엔진** *(2024.10 – 2025.07)*  
+1. **다발성 경화증(MS) 검출 프로젝트** *(2024.10 – 2025.07)*  
    – MotionBERT 3D 포즈 + MMPose 2D 키포인트; 스켈레톤 정렬 & 비트 싱크; 실시간/비동기 지원  
-   – *기술:* PyTorch, FastAPI/Flask, Celery, Docker; 지표: 자세 유사도, 리듬 매칭, 칼로리 추정
+   – *기술:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
 
-2. **피부 상태 분석 및 제품 추천** *(2023.05 – 2023.12)*  
+2. **이상탐지(Anomaly Detection) 모듈 개발** *(2024.10 – 2025.07)*  
+   – 사내 전 제품에 적용 가능한 범용 이상탐지 모듈 설계 및 엔지니어링
+   – 다양한 신체 부위, 촬영 기법 및 환경에서 발생하는 특징 공간 내 이상치를 필터링하기 위한 OOD(Out-of-Distribution) 탐지 구현
+   – *기술:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+3. **영상 분할 라벨 생성 및 개선 프로젝트** *(2024.10 – 2025.07)*  
+   – 많은 시간과 인력이 소요되는 영상 레이블링 작업 속도 개선을 목표
+   – DINO-Diffusion 방식으로 이미지 개선작업과 함께 라벨 생성
+   – *기술:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+
+4. **MRI 미세 병변 검출 엔진 개발** *(2024.10 – 2025.07)*  
+   – 뇌내미세출혈(CMB) 및 표재철침착증(cSS) 검출 엔진 개발 주도
+   – 영상 분할, 객체 탐지, 분류 모델을 통합하고 강건한 검증 프로세스 및 라벨링 가속화를 위한 액티브 러닝(Active Learning) 파이프라인 구축
+   – *기술:* Pytorch, DDP, SimpleITK, Scikit-Learn, Git
+  
+5. **실시간 댄스 코칭 엔진** *(2024.10 – 2025.07)*  
+   – MotionBERT 3D 포즈 + MMPose 2D 키포인트; 스켈레톤 정렬 & 비트 싱크; 실시간/비동기 지원  
+   – *기술:* PyTorch, FastAPI/Flask, Celery, Docker
+
+6. **피부 상태 분석 및 제품 추천** *(2023.05 – 2023.12)*  
    – 모바일 피부 이미지 분석 및 맞춤 화장품 추천(Flutter–Django)  
    – *기술:* Flutter, Django, MySQL, REST API
 
-3. **Domain Generalization / POEM** *(2021.04 – 2023.02)*  
+7. **Domain Generalization / POEM** *(2021.04 – 2023.02)*  
    – **도메인 불변 임베딩** 학습으로 일반화 성능 향상  
    – *기술:* PyTorch, NumPy, Python, Research, Computer Vision, Generalization, Linux, GitHub, Docker  
    – **Code:** https://github.com/JoSangYoung/Official-POEM  
    – **Paper:** https://arxiv.org/abs/2305.13046
 
-4. **Causal Effect Analysis** *(2022.03 – 2023.02)*  
+8. **Causal Effect Analysis** *(2022.03 – 2023.02)*  
    – **CCM** 기반 신호 쌍 인과 효과 추론  
    – *기술:* Python, PyTorch, Convergent Cross Mapping, Data Analysis, Signal Processing
 
-5. **3D 포인트 클라우드 메타러닝** *(2022.10 – 2022.12)*  
+9. **3D 포인트 클라우드 메타러닝** *(2022.10 – 2022.12)*  
    – Few-shot 조건의 PointNet + task-conditioned adaptation 실험  
    – *기술:* TensorFlow, CUDA, 3D Point Cloud Classification
 
-6. **클러스터링 기반 Feature 메타러닝** *(2022.06 – 2022.12)*  
+10. **클러스터링 기반 Feature 메타러닝** *(2022.06 – 2022.12)*  
    – 임베딩 공간에서 **ProtoNet + 군집화**로 outlier 제거 전략  
    – *기술:* PyTorch, scikit-learn, learn2learn, CUDA
 
-7. **초음파 융착 공정 이상탐지/시뮬레이터** *(2021.10 – 2021.12)*  
+11. **초음파 융착 공정 이상탐지/시뮬레이터** *(2021.10 – 2021.12)*  
    – MLP 기반 공정 시뮬레이터 및 데이터 분석 워크플로  
    – *기술:* Python, Pandas, NumPy, Communication, Linux, Data Analysis
 
-8. **시냅스 연결 3D 웹 뷰어** *(2020.05 – 2020.09)*  
+12. **시냅스 연결 3D 웹 뷰어** *(2020.05 – 2020.09)*  
    – 3D 시각화 웹 애플리케이션  
    – *기술:* Python, 오픈소스, REST API, 3D Vision, GitHub
 
-9. **EEG 기반 시각 기억도 예측** *(2018.11 – 2020.02)*  
+13. **EEG 기반 시각 기억도 예측** *(2018.11 – 2020.02)*  
    – 뇌파 패턴 분류로 시각 기억도 예측  
    – *기술:* Python, PyTorch, Braindecode, Machine Learning, Deep Learning, MATLAB
 
-10. **자전거 도로 유지보수 시스템** *(2019.04 – 2019.06)*  
+14. **자전거 도로 유지보수 시스템** *(2019.04 – 2019.06)*  
     – **YOLO** 기반 실시간 웹/모바일 감지  
     – *기술:* Flutter, Django, Google Maps, YOLO, Object Detection, Data Preprocessing, PyTorch  
     – **GitHub:** https://github.com/JoSangYoung/Road_Detecting_Map
 
-11. **패션 아이템 생성·추천 (DiscoGAN)** *(2018.04 – 2018.12)*  
+15. **패션 아이템 생성·추천 (DiscoGAN)** *(2018.04 – 2018.12)*  
     – **DiscoGAN** 기반 이미지 생성 및 추천  
     – *기술:* DiscoGAN, MySQL, Web Crawling, Python, PyTorch, Image Preprocessing  
     – **GitHub:** https://github.com/JoSangYoung/Generating-Nail-Art-Designs-using-DiscoGAN
 
-12. **IoT 기반 환자 케어 시스템** *(2017.06 – 2017.11)*  
+16. **IoT 기반 환자 케어 시스템** *(2017.06 – 2017.11)*  
     – 카메라·IoT·웨어러블 연동 환자 모니터링  
     – *기술:* IoT, Django, Node.js, JavaScript, Python, ARTIK, 3D Printing  
     – **GitHub:** https://github.com/JoSangYoung/Patient-care-system-using-IoT-sensor  
@@ -483,6 +520,37 @@ I help teams ship reliable vision/multimodal AI from prototype → product.
 3. *Korea Software Congress 2017*  
    김준수, 백승민, 조상영, 정진우, *아틱 클라우드와 IoT 센서를 이용한 환자 및 병실 관리 지원 시스템*.  
    **링크:** https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322694
+
+</details>
+
+</br>
+
+📜 Certifications
+<details>
+<summary>English</summary>
+– Linux Master Level 2 (KAIT) | Jan 2026
+– Distribution Manager Level 2 (KCCI) | Dec 2025
+– Big Data Analysis Engineer (KDATA) | Dec 2025
+– SQL Developer (SQLD) (KDATA) | Dec 2025
+– Unmanned Multi-copter Pilot (Category 4) (TS) | Dec 2025
+– Advanced Data Analytics Semi-Professional (ADsP) (KDATA) | Dec 2025
+– Engineer Information Processing (HRDK) | Nov 2019
+– Driver’s License (Type 1 Ordinary) (KNPA) | Feb 2017
+– Graphic Technology Qualification (GTQ) Level 2 (KPC) | Sep 2011
+
+</details>
+
+<details>
+<summary>한국어</summary>
+– 리눅스마스터 2급 (한국정보통신진흥협회) | 2026.01.02
+– 유통관리사 2급 (대한상공회의소) | 2025.12.23
+– 빅데이터 분석기사 (한국데이터산업진흥원) | 2025.12.19
+– 국가공인 SQL 개발자 (SQLD) (한국데이터산업진흥원) | 2025.12.12
+– 무인동력 비행장치 4종(무인멀티콥터) (한국교통안전공단) | 2025.12.03
+– 국가공인 데이터분석 준전문가 (ADsP) (한국데이터산업진흥원) | 2025.12.01
+– 정보처리기사 (한국산업인력공단) | 2019.11.22
+– 운전면허증 1종 보통 (대구지방경찰청) | 2017.02.24
+– GTQ(그래픽기술자격) 2급 (한국생산성본부) | 2011.09.16
 
 </details>
 
