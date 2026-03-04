@@ -528,46 +528,47 @@ Helping teams bridge the gap between AI ideation and real-world deployment with 
 ## 📜 Certifications
 <details>
 <summary>English</summary>
-– Linux Master Level 2 (KAIT) | Jan 2026
+- Linux Master Level 2 (KAIT) | Jan 2026
   
-– Distribution Manager Level 2 (KCCI) | Dec 2025
+- Distribution Manager Level 2 (KCCI) | Dec 2025
 
-– Big Data Analysis Engineer (KDATA) | Dec 2025
+- Big Data Analysis Engineer (KDATA) | Dec 2025
 
-– SQL Developer (SQLD) (KDATA) | Dec 2025
+- SQL Developer (SQLD) (KDATA) | Dec 2025
 
-– Unmanned Multi-copter Pilot (Category 4) (TS) | Dec 2025
+- Unmanned Multi-copter Pilot (Category 4) (TS) | Dec 2025
 
-– Advanced Data Analytics Semi-Professional (ADsP) (KDATA) | Dec 2025
+- Advanced Data Analytics Semi-Professional (ADsP) (KDATA) | Dec 2025
 
-– Engineer Information Processing (HRDK) | Nov 2019
+- Engineer Information Processing (HRDK) | Nov 2019
 
-– Driver’s License (Type 1 Ordinary) (KNPA) | Feb 2017
+- Driver’s License (Type 1 Ordinary) (KNPA) | Feb 2017
 
-– Graphic Technology Qualification (GTQ) Level 2 (KPC) | Sep 2011
+- Graphic Technology Qualification (GTQ) Level 2 (KPC) | Sep 2011
 
 
 </details>
 
 <details>
 <summary>한국어</summary>
-– 리눅스마스터 2급 (한국정보통신진흥협회) | 2026.01.02
+
+- 리눅스마스터 2급 (한국정보통신진흥협회) | 2026.01.02
   
-– 유통관리사 2급 (대한상공회의소) | 2025.12.23
+- 유통관리사 2급 (대한상공회의소) | 2025.12.23
 
-– 빅데이터 분석기사 (한국데이터산업진흥원) | 2025.12.19
+- 빅데이터 분석기사 (한국데이터산업진흥원) | 2025.12.19
 
-– 국가공인 SQL 개발자 (SQLD) (한국데이터산업진흥원) | 2025.12.12
+- 국가공인 SQL 개발자 (SQLD) (한국데이터산업진흥원) | 2025.12.12
 
-– 무인동력 비행장치 4종(무인멀티콥터) (한국교통안전공단) | 2025.12.03
+- 무인동력 비행장치 4종(무인멀티콥터) (한국교통안전공단) | 2025.12.03
 
-– 국가공인 데이터분석 준전문가 (ADsP) (한국데이터산업진흥원) | 2025.12.01
+- 국가공인 데이터분석 준전문가 (ADsP) (한국데이터산업진흥원) | 2025.12.01
 
-– 정보처리기사 (한국산업인력공단) | 2019.11.22
+- 정보처리기사 (한국산업인력공단) | 2019.11.22
 
-– 운전면허증 1종 보통 (대구지방경찰청) | 2017.02.24
+- 운전면허증 1종 보통 (대구지방경찰청) | 2017.02.24
 
-– GTQ(그래픽기술자격) 2급 (한국생산성본부) | 2011.09.16
+- GTQ(그래픽기술자격) 2급 (한국생산성본부) | 2011.09.16
 
 
 </details>
