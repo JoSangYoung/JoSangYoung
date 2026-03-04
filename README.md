@@ -9,7 +9,7 @@
 ![Updated-2025-08-18](https://img.shields.io/badge/Updated-2026--03--04-informational)
 
 
-# 조상영(Sang-Yeong Jo) — Vision · Multimodal · Core AI Algorithms · MLOps
+# 조상영(Sang-Yeong Jo) — AI Researcher / AI Engineer
 
 Model Robustness, computer vision, multimodal AI, and Optimization algorithm researcher/engineer.
 </br>
