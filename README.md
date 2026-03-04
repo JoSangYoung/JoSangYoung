@@ -5,11 +5,9 @@
 
 # 조상영(Sang-Yeong Jo) — Vision · Multimodal · Core AI Algorithms · MLOps
 
-Robust computer vision & multimodal AI researcher/engineer.
+Model Robustness, computer vision, multimodal AI, and Optimization algorithm researcher/engineer.
 </br>
-모델 안정성, 컴퓨터 비전, 멀티모달 AI 연구자/엔지니어입니다.  
-</br>
-**Domain Generalization (POEM, AAAI'23 Oral)** · **2D/3D Pose** · **Medical/Industrial CV** · **MLOps (DDP/AMP, TorchScript/torch.compile, Docker, FastAPI, Celery, W&B)**
+모델 안정성, 컴퓨터 비전, 멀티모달 AI, 최적화 알고리즘 연구자/엔지니어입니다.  
 
 [📧 Email](mailto:joinspired42@gmail.com) · [🔗 LinkedIn](https://www.linkedin.com/in/sangyeongjo/) · [🎓 Scholar](https://scholar.google.com/citations?user=DQRzEzIAAAAJ&hl=en) · [👨‍💻 GitHub](https://github.com/JoSangYoung)
 
